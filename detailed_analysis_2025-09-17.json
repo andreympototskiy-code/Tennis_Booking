@@ -1,0 +1,6001 @@
+{
+  "date": "2025-09-17",
+  "ground_courts": [
+    {
+      "court_id": 4,
+      "court_number": 4,
+      "court_type": "Грунт"
+    },
+    {
+      "court_id": 5,
+      "court_number": 5,
+      "court_type": "Грунт"
+    },
+    {
+      "court_id": 6,
+      "court_number": 6,
+      "court_type": "Грунт"
+    },
+    {
+      "court_id": 7,
+      "court_number": 7,
+      "court_type": "Грунт"
+    },
+    {
+      "court_id": 8,
+      "court_number": 8,
+      "court_type": "Грунт"
+    },
+    {
+      "court_id": 9,
+      "court_number": 9,
+      "court_type": "Грунт"
+    },
+    {
+      "court_id": 10,
+      "court_number": 10,
+      "court_type": "Грунт"
+    },
+    {
+      "court_id": 11,
+      "court_number": 11,
+      "court_type": "Грунт"
+    },
+    {
+      "court_id": 12,
+      "court_number": 12,
+      "court_type": "Грунт"
+    },
+    {
+      "court_id": 13,
+      "court_number": 13,
+      "court_type": "Грунт"
+    }
+  ],
+  "occupied_slots": [],
+  "occupied_fields": [],
+  "time_fields": [
+    {
+      "field": "time_line",
+      "type": "bool",
+      "value": false
+    },
+    {
+      "field": "time_list",
+      "type": "list",
+      "value": [
+        {
+          "time_from": {
+            "value": "07:00:00",
+            "title": "07:00",
+            "hours": 7,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 25200
+          },
+          "time_to": {
+            "value": "07:30:00",
+            "title": "07:30",
+            "hours": 7,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 27000
+          }
+        },
+        {
+          "time_from": {
+            "value": "07:30:00",
+            "title": "07:30",
+            "hours": 7,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 27000
+          },
+          "time_to": {
+            "value": "08:00:00",
+            "title": "08:00",
+            "hours": 8,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 28800
+          }
+        },
+        {
+          "time_from": {
+            "value": "08:00:00",
+            "title": "08:00",
+            "hours": 8,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 28800
+          },
+          "time_to": {
+            "value": "08:30:00",
+            "title": "08:30",
+            "hours": 8,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 30600
+          }
+        },
+        {
+          "time_from": {
+            "value": "08:30:00",
+            "title": "08:30",
+            "hours": 8,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 30600
+          },
+          "time_to": {
+            "value": "09:00:00",
+            "title": "09:00",
+            "hours": 9,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 32400
+          }
+        },
+        {
+          "time_from": {
+            "value": "09:00:00",
+            "title": "09:00",
+            "hours": 9,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 32400
+          },
+          "time_to": {
+            "value": "09:30:00",
+            "title": "09:30",
+            "hours": 9,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 34200
+          }
+        },
+        {
+          "time_from": {
+            "value": "09:30:00",
+            "title": "09:30",
+            "hours": 9,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 34200
+          },
+          "time_to": {
+            "value": "10:00:00",
+            "title": "10:00",
+            "hours": 10,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 36000
+          }
+        },
+        {
+          "time_from": {
+            "value": "10:00:00",
+            "title": "10:00",
+            "hours": 10,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 36000
+          },
+          "time_to": {
+            "value": "10:30:00",
+            "title": "10:30",
+            "hours": 10,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 37800
+          }
+        },
+        {
+          "time_from": {
+            "value": "10:30:00",
+            "title": "10:30",
+            "hours": 10,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 37800
+          },
+          "time_to": {
+            "value": "11:00:00",
+            "title": "11:00",
+            "hours": 11,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 39600
+          }
+        },
+        {
+          "time_from": {
+            "value": "11:00:00",
+            "title": "11:00",
+            "hours": 11,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 39600
+          },
+          "time_to": {
+            "value": "11:30:00",
+            "title": "11:30",
+            "hours": 11,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 41400
+          }
+        },
+        {
+          "time_from": {
+            "value": "11:30:00",
+            "title": "11:30",
+            "hours": 11,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 41400
+          },
+          "time_to": {
+            "value": "12:00:00",
+            "title": "12:00",
+            "hours": 12,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 43200
+          }
+        },
+        {
+          "time_from": {
+            "value": "12:00:00",
+            "title": "12:00",
+            "hours": 12,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 43200
+          },
+          "time_to": {
+            "value": "12:30:00",
+            "title": "12:30",
+            "hours": 12,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 45000
+          }
+        },
+        {
+          "time_from": {
+            "value": "12:30:00",
+            "title": "12:30",
+            "hours": 12,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 45000
+          },
+          "time_to": {
+            "value": "13:00:00",
+            "title": "13:00",
+            "hours": 13,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 46800
+          }
+        },
+        {
+          "time_from": {
+            "value": "13:00:00",
+            "title": "13:00",
+            "hours": 13,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 46800
+          },
+          "time_to": {
+            "value": "13:30:00",
+            "title": "13:30",
+            "hours": 13,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 48600
+          }
+        },
+        {
+          "time_from": {
+            "value": "13:30:00",
+            "title": "13:30",
+            "hours": 13,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 48600
+          },
+          "time_to": {
+            "value": "14:00:00",
+            "title": "14:00",
+            "hours": 14,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 50400
+          }
+        },
+        {
+          "time_from": {
+            "value": "14:00:00",
+            "title": "14:00",
+            "hours": 14,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 50400
+          },
+          "time_to": {
+            "value": "14:30:00",
+            "title": "14:30",
+            "hours": 14,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 52200
+          }
+        },
+        {
+          "time_from": {
+            "value": "14:30:00",
+            "title": "14:30",
+            "hours": 14,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 52200
+          },
+          "time_to": {
+            "value": "15:00:00",
+            "title": "15:00",
+            "hours": 15,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 54000
+          }
+        },
+        {
+          "time_from": {
+            "value": "15:00:00",
+            "title": "15:00",
+            "hours": 15,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 54000
+          },
+          "time_to": {
+            "value": "15:30:00",
+            "title": "15:30",
+            "hours": 15,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 55800
+          }
+        },
+        {
+          "time_from": {
+            "value": "15:30:00",
+            "title": "15:30",
+            "hours": 15,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 55800
+          },
+          "time_to": {
+            "value": "16:00:00",
+            "title": "16:00",
+            "hours": 16,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 57600
+          }
+        },
+        {
+          "time_from": {
+            "value": "16:00:00",
+            "title": "16:00",
+            "hours": 16,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 57600
+          },
+          "time_to": {
+            "value": "16:30:00",
+            "title": "16:30",
+            "hours": 16,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 59400
+          }
+        },
+        {
+          "time_from": {
+            "value": "16:30:00",
+            "title": "16:30",
+            "hours": 16,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 59400
+          },
+          "time_to": {
+            "value": "17:00:00",
+            "title": "17:00",
+            "hours": 17,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 61200
+          }
+        },
+        {
+          "time_from": {
+            "value": "17:00:00",
+            "title": "17:00",
+            "hours": 17,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 61200
+          },
+          "time_to": {
+            "value": "17:30:00",
+            "title": "17:30",
+            "hours": 17,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 63000
+          }
+        },
+        {
+          "time_from": {
+            "value": "17:30:00",
+            "title": "17:30",
+            "hours": 17,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 63000
+          },
+          "time_to": {
+            "value": "18:00:00",
+            "title": "18:00",
+            "hours": 18,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 64800
+          }
+        },
+        {
+          "time_from": {
+            "value": "18:00:00",
+            "title": "18:00",
+            "hours": 18,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 64800
+          },
+          "time_to": {
+            "value": "18:30:00",
+            "title": "18:30",
+            "hours": 18,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 66600
+          }
+        },
+        {
+          "time_from": {
+            "value": "18:30:00",
+            "title": "18:30",
+            "hours": 18,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 66600
+          },
+          "time_to": {
+            "value": "19:00:00",
+            "title": "19:00",
+            "hours": 19,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 68400
+          }
+        },
+        {
+          "time_from": {
+            "value": "19:00:00",
+            "title": "19:00",
+            "hours": 19,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 68400
+          },
+          "time_to": {
+            "value": "19:30:00",
+            "title": "19:30",
+            "hours": 19,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 70200
+          }
+        },
+        {
+          "time_from": {
+            "value": "19:30:00",
+            "title": "19:30",
+            "hours": 19,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 70200
+          },
+          "time_to": {
+            "value": "20:00:00",
+            "title": "20:00",
+            "hours": 20,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 72000
+          }
+        },
+        {
+          "time_from": {
+            "value": "20:00:00",
+            "title": "20:00",
+            "hours": 20,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 72000
+          },
+          "time_to": {
+            "value": "20:30:00",
+            "title": "20:30",
+            "hours": 20,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 73800
+          }
+        },
+        {
+          "time_from": {
+            "value": "20:30:00",
+            "title": "20:30",
+            "hours": 20,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 73800
+          },
+          "time_to": {
+            "value": "21:00:00",
+            "title": "21:00",
+            "hours": 21,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 75600
+          }
+        },
+        {
+          "time_from": {
+            "value": "21:00:00",
+            "title": "21:00",
+            "hours": 21,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 75600
+          },
+          "time_to": {
+            "value": "21:30:00",
+            "title": "21:30",
+            "hours": 21,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 77400
+          }
+        },
+        {
+          "time_from": {
+            "value": "21:30:00",
+            "title": "21:30",
+            "hours": 21,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 77400
+          },
+          "time_to": {
+            "value": "22:00:00",
+            "title": "22:00",
+            "hours": 22,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 79200
+          }
+        },
+        {
+          "time_from": {
+            "value": "22:00:00",
+            "title": "22:00",
+            "hours": 22,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 79200
+          },
+          "time_to": {
+            "value": "22:30:00",
+            "title": "22:30",
+            "hours": 22,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 81000
+          }
+        },
+        {
+          "time_from": {
+            "value": "22:30:00",
+            "title": "22:30",
+            "hours": 22,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 81000
+          },
+          "time_to": {
+            "value": "23:00:00",
+            "title": "23:00",
+            "hours": 23,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 82800
+          }
+        },
+        {
+          "time_from": {
+            "value": "23:00:00",
+            "title": "23:00",
+            "hours": 23,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 82800
+          },
+          "time_to": {
+            "value": "23:30:00",
+            "title": "23:30",
+            "hours": 23,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 84600
+          }
+        },
+        {
+          "time_from": {
+            "value": "23:30:00",
+            "title": "23:30",
+            "hours": 23,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 84600
+          },
+          "time_to": {
+            "value": "24:00:00",
+            "title": "24:00",
+            "hours": 24,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 86400
+          }
+        }
+      ]
+    },
+    {
+      "field": "time_stock",
+      "type": "list",
+      "value": [
+        [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      ]
+    },
+    {
+      "field": "time_price",
+      "type": "list",
+      "value": [
+        [
+          1100,
+          1100,
+          1100,
+          1100,
+          1100,
+          1100,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1950,
+          1950,
+          1950,
+          1950,
+          1950,
+          1950,
+          1950,
+          1950,
+          1950,
+          1950,
+          1100,
+          1100,
+          1100,
+          1100
+        ],
+        [
+          1100,
+          1100,
+          1100,
+          1100,
+          1100,
+          1100,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1950,
+          1950,
+          1950,
+          1950,
+          1950,
+          1950,
+          1950,
+          1950,
+          1950,
+          1950,
+          1100,
+          1100,
+          1100,
+          1100
+        ],
+        [
+          1100,
+          1100,
+          1100,
+          1100,
+          1100,
+          1100,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1400,
+          1950,
+          1950,
+          1950,
+          1950,
+          1950,
+          1950,
+          1950,
+          1950,
+          1950,
+          1950,
+          1100,
+          1100,
+          1100,
+          1100
+        ]
+      ]
+    },
+    {
+      "field": "time_blocked",
+      "type": "list",
+      "value": [
+        {
+          "id": 417403,
+          "created_at": "2025-08-17 15:36:06",
+          "updated_at": "2025-09-07 13:43:42",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238473,
+          "court_id": 6,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "10:00:00",
+            "title": "10:00",
+            "hours": 10,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 36000
+          },
+          "time_to": {
+            "value": "11:00:00",
+            "title": "11:00",
+            "hours": 11,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 39600
+          },
+          "price": 2800,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 6,
+            "type_id": 2,
+            "number": 6,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 417442,
+          "created_at": "2025-08-17 15:36:28",
+          "updated_at": "2025-09-07 13:43:49",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238474,
+          "court_id": 6,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "11:00:00",
+            "title": "11:00",
+            "hours": 11,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 39600
+          },
+          "time_to": {
+            "value": "12:30:00",
+            "title": "12:30",
+            "hours": 12,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 45000
+          },
+          "price": 4200,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 6,
+            "type_id": 2,
+            "number": 6,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 417481,
+          "created_at": "2025-08-17 15:37:06",
+          "updated_at": "2025-09-07 13:43:58",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238475,
+          "court_id": 6,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "12:30:00",
+            "title": "12:30",
+            "hours": 12,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 45000
+          },
+          "time_to": {
+            "value": "14:00:00",
+            "title": "14:00",
+            "hours": 14,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 50400
+          },
+          "price": 4200,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 6,
+            "type_id": 2,
+            "number": 6,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 417520,
+          "created_at": "2025-08-17 15:37:41",
+          "updated_at": "2025-09-09 21:39:34",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238476,
+          "court_id": 5,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "17:00:00",
+            "title": "17:00",
+            "hours": 17,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 61200
+          },
+          "time_to": {
+            "value": "18:30:00",
+            "title": "18:30",
+            "hours": 18,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 66600
+          },
+          "price": 5850,
+          "price_detail": "0",
+          "payment_at": "2025-09-06 18:05:27",
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 5,
+            "type_id": 2,
+            "number": 5,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 417559,
+          "created_at": "2025-08-17 15:38:00",
+          "updated_at": "2025-09-09 21:39:30",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238477,
+          "court_id": 5,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "18:30:00",
+            "title": "18:30",
+            "hours": 18,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 66600
+          },
+          "time_to": {
+            "value": "20:00:00",
+            "title": "20:00",
+            "hours": 20,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 72000
+          },
+          "price": 5850,
+          "price_detail": "0",
+          "payment_at": "2025-09-06 18:05:34",
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 5,
+            "type_id": 2,
+            "number": 5,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 418809,
+          "created_at": "2025-08-17 16:53:24",
+          "updated_at": "2025-09-12 18:06:26",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238511,
+          "court_id": 13,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "17:00:00",
+            "title": "17:00",
+            "hours": 17,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 61200
+          },
+          "time_to": {
+            "value": "18:30:00",
+            "title": "18:30",
+            "hours": 18,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 66600
+          },
+          "price": 5850,
+          "price_detail": "0",
+          "payment_at": "2025-09-12 18:06:26",
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 13,
+            "type_id": 2,
+            "number": 13,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 418848,
+          "created_at": "2025-08-17 16:53:25",
+          "updated_at": "2025-09-12 18:05:47",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238512,
+          "court_id": 12,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "17:00:00",
+            "title": "17:00",
+            "hours": 17,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 61200
+          },
+          "time_to": {
+            "value": "18:30:00",
+            "title": "18:30",
+            "hours": 18,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 66600
+          },
+          "price": 5850,
+          "price_detail": "0",
+          "payment_at": "2025-09-12 18:05:46",
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 12,
+            "type_id": 2,
+            "number": 12,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 418887,
+          "created_at": "2025-08-17 16:53:47",
+          "updated_at": "2025-09-12 18:08:20",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238513,
+          "court_id": 43,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "18:30:00",
+            "title": "18:30",
+            "hours": 18,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 66600
+          },
+          "time_to": {
+            "value": "19:00:00",
+            "title": "19:00",
+            "hours": 19,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 68400
+          },
+          "price": 500,
+          "price_detail": "0",
+          "payment_at": "2025-09-12 18:08:20",
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 5,
+            "name": "ОФП",
+            "short": "ОФП",
+            "cut": "ОФП",
+            "label": "ofp"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 43,
+            "type_id": 5,
+            "number": 1,
+            "inflate_id": 0,
+            "everywhere": 0,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 5,
+              "name": "ОФП",
+              "short": "ОФП",
+              "cut": "ОФП",
+              "label": "ofp"
+            }
+          }
+        },
+        {
+          "id": 418926,
+          "created_at": "2025-08-17 16:56:13",
+          "updated_at": "2025-08-21 16:07:23",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238514,
+          "court_id": 101,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "16:00:00",
+            "title": "16:00",
+            "hours": 16,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 57600
+          },
+          "time_to": {
+            "value": "20:30:00",
+            "title": "20:30",
+            "hours": 20,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 73800
+          },
+          "price": 16450,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 101,
+            "type_id": 6,
+            "number": 1,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2023-08-01 10:32:40",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 418965,
+          "created_at": "2025-08-17 16:56:14",
+          "updated_at": "2025-08-21 16:07:29",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238515,
+          "court_id": 58,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "16:00:00",
+            "title": "16:00",
+            "hours": 16,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 57600
+          },
+          "time_to": {
+            "value": "20:30:00",
+            "title": "20:30",
+            "hours": 20,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 73800
+          },
+          "price": 16450,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 58,
+            "type_id": 6,
+            "number": 2,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2019-08-29 17:45:42",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 419004,
+          "created_at": "2025-08-17 16:56:14",
+          "updated_at": "2025-09-03 18:49:03",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238516,
+          "court_id": 63,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "16:00:00",
+            "title": "16:00",
+            "hours": 16,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 57600
+          },
+          "time_to": {
+            "value": "20:00:00",
+            "title": "20:00",
+            "hours": 20,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 72000
+          },
+          "price": 14500,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 63,
+            "type_id": 6,
+            "number": 3,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2021-08-26 11:55:29",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 419854,
+          "created_at": "2025-08-18 10:50:05",
+          "updated_at": "2025-09-10 10:45:20",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238568,
+          "court_id": 8,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "16:00:00",
+            "title": "16:00",
+            "hours": 16,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 57600
+          },
+          "time_to": {
+            "value": "17:00:00",
+            "title": "17:00",
+            "hours": 17,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 61200
+          },
+          "price": 2800,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 8,
+            "type_id": 2,
+            "number": 8,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 419932,
+          "created_at": "2025-08-18 10:50:19",
+          "updated_at": "2025-09-10 15:57:37",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238570,
+          "court_id": 8,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "17:00:00",
+            "title": "17:00",
+            "hours": 17,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 61200
+          },
+          "time_to": {
+            "value": "18:30:00",
+            "title": "18:30",
+            "hours": 18,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 66600
+          },
+          "price": 5850,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 8,
+            "type_id": 2,
+            "number": 8,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 422767,
+          "created_at": "2025-08-18 13:03:18",
+          "updated_at": "2025-08-27 19:28:35",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238669,
+          "court_id": 13,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "21:00:00",
+            "title": "21:00",
+            "hours": 21,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 75600
+          },
+          "time_to": {
+            "value": "22:30:00",
+            "title": "22:30",
+            "hours": 22,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 81000
+          },
+          "price": 5000,
+          "price_detail": "0",
+          "payment_at": "2025-08-27 19:28:35",
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 13,
+            "type_id": 2,
+            "number": 13,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 422806,
+          "created_at": "2025-08-18 13:03:18",
+          "updated_at": "2025-08-27 19:28:14",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238670,
+          "court_id": 13,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "19:30:00",
+            "title": "19:30",
+            "hours": 19,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 70200
+          },
+          "time_to": {
+            "value": "21:00:00",
+            "title": "21:00",
+            "hours": 21,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 75600
+          },
+          "price": 5850,
+          "price_detail": "0",
+          "payment_at": "2025-08-27 19:28:14",
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 13,
+            "type_id": 2,
+            "number": 13,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 423164,
+          "created_at": "2025-08-18 13:12:00",
+          "updated_at": "2025-08-18 13:12:00",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238686,
+          "court_id": 10,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "19:00:00",
+            "title": "19:00",
+            "hours": 19,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 68400
+          },
+          "time_to": {
+            "value": "22:30:00",
+            "title": "22:30",
+            "hours": 22,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 81000
+          },
+          "price": 12800,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 10,
+            "type_id": 2,
+            "number": 10,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 423203,
+          "created_at": "2025-08-18 13:12:01",
+          "updated_at": "2025-08-18 13:12:01",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238687,
+          "court_id": 11,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "19:00:00",
+            "title": "19:00",
+            "hours": 19,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 68400
+          },
+          "time_to": {
+            "value": "22:30:00",
+            "title": "22:30",
+            "hours": 22,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 81000
+          },
+          "price": 12800,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 11,
+            "type_id": 2,
+            "number": 11,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 423242,
+          "created_at": "2025-08-18 13:12:02",
+          "updated_at": "2025-09-10 08:46:49",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238688,
+          "court_id": 12,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "11:00:00",
+            "title": "11:00",
+            "hours": 11,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 39600
+          },
+          "time_to": {
+            "value": "12:30:00",
+            "title": "12:30",
+            "hours": 12,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 45000
+          },
+          "price": 4200,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 12,
+            "type_id": 2,
+            "number": 12,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 423281,
+          "created_at": "2025-08-18 13:12:02",
+          "updated_at": "2025-09-10 08:46:41",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238689,
+          "court_id": 13,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "11:00:00",
+            "title": "11:00",
+            "hours": 11,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 39600
+          },
+          "time_to": {
+            "value": "12:30:00",
+            "title": "12:30",
+            "hours": 12,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 45000
+          },
+          "price": 4200,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 13,
+            "type_id": 2,
+            "number": 13,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 424383,
+          "created_at": "2025-08-18 16:09:05",
+          "updated_at": "2025-09-10 19:10:39",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238741,
+          "court_id": 9,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "19:00:00",
+            "title": "19:00",
+            "hours": 19,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 68400
+          },
+          "time_to": {
+            "value": "20:00:00",
+            "title": "20:00",
+            "hours": 20,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 72000
+          },
+          "price": 3900,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 9,
+            "type_id": 2,
+            "number": 9,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 424422,
+          "created_at": "2025-08-18 16:09:06",
+          "updated_at": "2025-09-08 12:13:26",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238742,
+          "court_id": 9,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "17:30:00",
+            "title": "17:30",
+            "hours": 17,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 63000
+          },
+          "time_to": {
+            "value": "19:00:00",
+            "title": "19:00",
+            "hours": 19,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 68400
+          },
+          "price": 5850,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 9,
+            "type_id": 2,
+            "number": 9,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 424657,
+          "created_at": "2025-08-18 16:19:34",
+          "updated_at": "2025-09-10 12:53:46",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238749,
+          "court_id": 5,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "20:00:00",
+            "title": "20:00",
+            "hours": 20,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 72000
+          },
+          "time_to": {
+            "value": "21:30:00",
+            "title": "21:30",
+            "hours": 21,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 77400
+          },
+          "price": 5850,
+          "price_detail": "0",
+          "payment_at": "2025-09-10 12:53:46",
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 5,
+            "type_id": 2,
+            "number": 5,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 425374,
+          "created_at": "2025-08-19 16:26:30",
+          "updated_at": "2025-09-09 15:12:44",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238897,
+          "court_id": 101,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "10:00:00",
+            "title": "10:00",
+            "hours": 10,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 36000
+          },
+          "time_to": {
+            "value": "12:00:00",
+            "title": "12:00",
+            "hours": 12,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 43200
+          },
+          "price": 5600,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 101,
+            "type_id": 6,
+            "number": 1,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2023-08-01 10:32:40",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 425647,
+          "created_at": "2025-08-19 16:32:34",
+          "updated_at": "2025-09-09 20:06:33",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 238904,
+          "court_id": 5,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "13:00:00",
+            "title": "13:00",
+            "hours": 13,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 46800
+          },
+          "time_to": {
+            "value": "17:00:00",
+            "title": "17:00",
+            "hours": 17,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 61200
+          },
+          "price": 11200,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 5,
+            "type_id": 2,
+            "number": 5,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 426296,
+          "created_at": "2025-08-20 13:22:21",
+          "updated_at": "2025-09-14 16:58:29",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": "2025-09-14 16:58:03",
+          "order_id": 239021,
+          "court_id": 9,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "15:30:00",
+            "title": "15:30",
+            "hours": 15,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 55800
+          },
+          "time_to": {
+            "value": "17:30:00",
+            "title": "17:30",
+            "hours": 17,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 63000
+          },
+          "price": 6150,
+          "price_detail": "0",
+          "payment_at": "2025-08-29 19:04:45",
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 9,
+            "type_id": 2,
+            "number": 9,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 426462,
+          "created_at": "2025-08-20 18:10:10",
+          "updated_at": "2025-09-08 09:28:40",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 239075,
+          "court_id": 7,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "20:30:00",
+            "title": "20:30",
+            "hours": 20,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 73800
+          },
+          "time_to": {
+            "value": "22:00:00",
+            "title": "22:00",
+            "hours": 22,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 79200
+          },
+          "price": 5850,
+          "price_detail": "0",
+          "payment_at": "2025-09-04 09:55:46",
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 7,
+            "type_id": 2,
+            "number": 7,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 426949,
+          "created_at": "2025-08-21 19:06:47",
+          "updated_at": "2025-09-11 18:46:53",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 239194,
+          "court_id": 4,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "19:00:00",
+            "title": "19:00",
+            "hours": 19,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 68400
+          },
+          "time_to": {
+            "value": "21:00:00",
+            "title": "21:00",
+            "hours": 21,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 75600
+          },
+          "price": 7800,
+          "price_detail": "0",
+          "payment_at": "2025-09-11 18:46:53",
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 4,
+            "type_id": 2,
+            "number": 4,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 427522,
+          "created_at": "2025-08-22 11:51:43",
+          "updated_at": "2025-09-10 12:49:01",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 239245,
+          "court_id": 8,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "18:30:00",
+            "title": "18:30",
+            "hours": 18,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 66600
+          },
+          "time_to": {
+            "value": "20:00:00",
+            "title": "20:00",
+            "hours": 20,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 72000
+          },
+          "price": 5850,
+          "price_detail": "0",
+          "payment_at": "2025-09-10 12:49:01",
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 8,
+            "type_id": 2,
+            "number": 8,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 427560,
+          "created_at": "2025-08-22 11:51:43",
+          "updated_at": "2025-09-10 12:48:55",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": "2025-09-10 12:02:12",
+          "order_id": 239246,
+          "court_id": 7,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "18:30:00",
+            "title": "18:30",
+            "hours": 18,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 66600
+          },
+          "time_to": {
+            "value": "20:00:00",
+            "title": "20:00",
+            "hours": 20,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 72000
+          },
+          "price": 5850,
+          "price_detail": "0",
+          "payment_at": "2025-09-10 12:48:55",
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 7,
+            "type_id": 2,
+            "number": 7,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 427598,
+          "created_at": "2025-08-22 11:55:24",
+          "updated_at": "2025-09-10 12:49:07",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 239247,
+          "court_id": 63,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "20:00:00",
+            "title": "20:00",
+            "hours": 20,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 72000
+          },
+          "time_to": {
+            "value": "21:00:00",
+            "title": "21:00",
+            "hours": 21,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 75600
+          },
+          "price": 3900,
+          "price_detail": "0",
+          "payment_at": "2025-09-10 12:49:07",
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 63,
+            "type_id": 6,
+            "number": 3,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2021-08-26 11:55:29",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 427674,
+          "created_at": "2025-08-22 11:55:26",
+          "updated_at": "2025-09-10 12:49:14",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 239249,
+          "court_id": 12,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "20:00:00",
+            "title": "20:00",
+            "hours": 20,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 72000
+          },
+          "time_to": {
+            "value": "21:30:00",
+            "title": "21:30",
+            "hours": 21,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 77400
+          },
+          "price": 5850,
+          "price_detail": "0",
+          "payment_at": "2025-09-10 12:49:14",
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 12,
+            "type_id": 2,
+            "number": 12,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 428480,
+          "created_at": "2025-08-22 18:22:17",
+          "updated_at": "2025-09-08 09:28:49",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 239348,
+          "court_id": 9,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "20:00:00",
+            "title": "20:00",
+            "hours": 20,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 72000
+          },
+          "time_to": {
+            "value": "21:30:00",
+            "title": "21:30",
+            "hours": 21,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 77400
+          },
+          "price": 5850,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 9,
+            "type_id": 2,
+            "number": 9,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 430429,
+          "created_at": "2025-08-28 16:28:15",
+          "updated_at": "2025-09-10 14:36:43",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 239996,
+          "court_id": 55,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "19:30:00",
+            "title": "19:30",
+            "hours": 19,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 70200
+          },
+          "time_to": {
+            "value": "24:00:00",
+            "title": "24:00",
+            "hours": 24,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 86400
+          },
+          "price": 14150,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 55,
+            "type_id": 2,
+            "number": 14,
+            "inflate_id": 0,
+            "everywhere": 0,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 430468,
+          "created_at": "2025-08-28 16:28:15",
+          "updated_at": "2025-09-10 14:36:45",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 239997,
+          "court_id": 56,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "19:30:00",
+            "title": "19:30",
+            "hours": 19,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 70200
+          },
+          "time_to": {
+            "value": "24:00:00",
+            "title": "24:00",
+            "hours": 24,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 86400
+          },
+          "price": 14150,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 56,
+            "type_id": 2,
+            "number": 15,
+            "inflate_id": 0,
+            "everywhere": 0,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 430507,
+          "created_at": "2025-08-28 16:28:16",
+          "updated_at": "2025-09-10 14:36:48",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 239998,
+          "court_id": 103,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "19:30:00",
+            "title": "19:30",
+            "hours": 19,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 70200
+          },
+          "time_to": {
+            "value": "24:00:00",
+            "title": "24:00",
+            "hours": 24,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 86400
+          },
+          "price": 14150,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 103,
+            "type_id": 2,
+            "number": 16,
+            "inflate_id": 0,
+            "everywhere": 0,
+            "created_date": "2024-05-20 12:49:44",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 430546,
+          "created_at": "2025-08-28 16:28:16",
+          "updated_at": "2025-09-10 12:56:46",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 239999,
+          "court_id": 104,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "19:30:00",
+            "title": "19:30",
+            "hours": 19,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 70200
+          },
+          "time_to": {
+            "value": "24:00:00",
+            "title": "24:00",
+            "hours": 24,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 86400
+          },
+          "price": 14150,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 3,
+            "name": "Трава",
+            "short": "Трава",
+            "cut": "Трава (откр.)",
+            "label": "grass"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 104,
+            "type_id": 3,
+            "number": 17,
+            "inflate_id": 0,
+            "everywhere": 1,
+            "created_date": "2024-05-20 12:51:09",
+            "type": {
+              "id": 3,
+              "name": "Трава",
+              "short": "Трава",
+              "cut": "Трава (откр.)",
+              "label": "grass"
+            }
+          }
+        },
+        {
+          "id": 431725,
+          "created_at": "2025-09-02 10:54:38",
+          "updated_at": "2025-09-07 13:44:02",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 240413,
+          "court_id": 6,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "14:00:00",
+            "title": "14:00",
+            "hours": 14,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 50400
+          },
+          "time_to": {
+            "value": "15:30:00",
+            "title": "15:30",
+            "hours": 15,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 55800
+          },
+          "price": 4200,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 6,
+            "type_id": 2,
+            "number": 6,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 431903,
+          "created_at": "2025-09-02 19:31:19",
+          "updated_at": "2025-09-12 18:05:30",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 240479,
+          "court_id": 10,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "17:00:00",
+            "title": "17:00",
+            "hours": 17,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 61200
+          },
+          "time_to": {
+            "value": "18:00:00",
+            "title": "18:00",
+            "hours": 18,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 64800
+          },
+          "price": 3900,
+          "price_detail": "0",
+          "payment_at": "2025-09-12 18:05:30",
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 10,
+            "type_id": 2,
+            "number": 10,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 432514,
+          "created_at": "2025-09-05 11:52:03",
+          "updated_at": "2025-09-05 11:52:03",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 240793,
+          "court_id": 8,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "09:30:00",
+            "title": "09:30",
+            "hours": 9,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 34200
+          },
+          "time_to": {
+            "value": "11:00:00",
+            "title": "11:00",
+            "hours": 11,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 39600
+          },
+          "price": 3900,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 8,
+            "type_id": 2,
+            "number": 8,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 432669,
+          "created_at": "2025-09-06 16:46:45",
+          "updated_at": "2025-09-06 16:46:45",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 240947,
+          "court_id": 58,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "10:00:00",
+            "title": "10:00",
+            "hours": 10,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 36000
+          },
+          "time_to": {
+            "value": "12:00:00",
+            "title": "12:00",
+            "hours": 12,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 43200
+          },
+          "price": 5600,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 58,
+            "type_id": 6,
+            "number": 2,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2019-08-29 17:45:42",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 432670,
+          "created_at": "2025-09-06 16:46:45",
+          "updated_at": "2025-09-06 16:48:15",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": "2025-09-06 16:48:15",
+          "order_id": 240948,
+          "court_id": 58,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "12:00:00",
+            "title": "12:00",
+            "hours": 12,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 43200
+          },
+          "time_to": {
+            "value": "14:00:00",
+            "title": "14:00",
+            "hours": 14,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 50400
+          },
+          "price": 5600,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 58,
+            "type_id": 6,
+            "number": 2,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2019-08-29 17:45:42",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 432671,
+          "created_at": "2025-09-06 16:46:45",
+          "updated_at": "2025-09-06 16:48:31",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": "2025-09-06 16:48:31",
+          "order_id": 240949,
+          "court_id": 58,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "14:00:00",
+            "title": "14:00",
+            "hours": 14,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 50400
+          },
+          "time_to": {
+            "value": "16:00:00",
+            "title": "16:00",
+            "hours": 16,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 57600
+          },
+          "price": 5600,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 58,
+            "type_id": 6,
+            "number": 2,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2019-08-29 17:45:42",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 432804,
+          "created_at": "2025-09-08 12:38:32",
+          "updated_at": "2025-09-08 12:38:32",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241079,
+          "court_id": 6,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "20:00:00",
+            "title": "20:00",
+            "hours": 20,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 72000
+          },
+          "time_to": {
+            "value": "21:30:00",
+            "title": "21:30",
+            "hours": 21,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 77400
+          },
+          "price": 5850,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 6,
+            "type_id": 2,
+            "number": 6,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 432947,
+          "created_at": "2025-09-08 16:14:38",
+          "updated_at": "2025-09-08 16:14:38",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241111,
+          "court_id": 48,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "16:30:00",
+            "title": "16:30",
+            "hours": 16,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 59400
+          },
+          "time_to": {
+            "value": "19:00:00",
+            "title": "19:00",
+            "hours": 19,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 68400
+          },
+          "price": 2500,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 5,
+            "name": "ОФП",
+            "short": "ОФП",
+            "cut": "ОФП",
+            "label": "ofp"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 48,
+            "type_id": 5,
+            "number": 2,
+            "inflate_id": 0,
+            "everywhere": 0,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 5,
+              "name": "ОФП",
+              "short": "ОФП",
+              "cut": "ОФП",
+              "label": "ofp"
+            }
+          }
+        },
+        {
+          "id": 433137,
+          "created_at": "2025-09-08 22:00:48",
+          "updated_at": "2025-09-08 22:00:48",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241153,
+          "court_id": 8,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "20:00:00",
+            "title": "20:00",
+            "hours": 20,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 72000
+          },
+          "time_to": {
+            "value": "21:30:00",
+            "title": "21:30",
+            "hours": 21,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 77400
+          },
+          "price": 5850,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 8,
+            "type_id": 2,
+            "number": 8,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433213,
+          "created_at": "2025-09-09 12:33:59",
+          "updated_at": "2025-09-09 12:33:59",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241195,
+          "court_id": 4,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "09:00:00",
+            "title": "09:00",
+            "hours": 9,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 32400
+          },
+          "time_to": {
+            "value": "10:00:00",
+            "title": "10:00",
+            "hours": 10,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 36000
+          },
+          "price": 2200,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 4,
+            "type_id": 2,
+            "number": 4,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433214,
+          "created_at": "2025-09-09 12:33:59",
+          "updated_at": "2025-09-09 12:33:59",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241196,
+          "court_id": 4,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "22:00:00",
+            "title": "22:00",
+            "hours": 22,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 79200
+          },
+          "time_to": {
+            "value": "23:30:00",
+            "title": "23:30",
+            "hours": 23,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 84600
+          },
+          "price": 3300,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 4,
+            "type_id": 2,
+            "number": 4,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433215,
+          "created_at": "2025-09-09 12:34:07",
+          "updated_at": "2025-09-14 16:57:55",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": "2025-09-14 16:57:55",
+          "order_id": 241197,
+          "court_id": 4,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "16:00:00",
+            "title": "16:00",
+            "hours": 16,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 57600
+          },
+          "time_to": {
+            "value": "17:00:00",
+            "title": "17:00",
+            "hours": 17,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 61200
+          },
+          "price": 2800,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 4,
+            "type_id": 2,
+            "number": 4,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433300,
+          "created_at": "2025-09-10 07:06:57",
+          "updated_at": "2025-09-10 07:06:57",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241281,
+          "court_id": 101,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "09:00:00",
+            "title": "09:00",
+            "hours": 9,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 32400
+          },
+          "time_to": {
+            "value": "10:00:00",
+            "title": "10:00",
+            "hours": 10,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 36000
+          },
+          "price": 2200,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 101,
+            "type_id": 6,
+            "number": 1,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2023-08-01 10:32:40",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 433306,
+          "created_at": "2025-09-10 09:25:18",
+          "updated_at": "2025-09-10 09:25:18",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241287,
+          "court_id": 63,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "09:30:00",
+            "title": "09:30",
+            "hours": 9,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 34200
+          },
+          "time_to": {
+            "value": "11:30:00",
+            "title": "11:30",
+            "hours": 11,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 41400
+          },
+          "price": 5300,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 63,
+            "type_id": 6,
+            "number": 3,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2021-08-26 11:55:29",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 433371,
+          "created_at": "2025-09-10 12:20:11",
+          "updated_at": "2025-09-10 12:20:11",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241316,
+          "court_id": 7,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "10:00:00",
+            "title": "10:00",
+            "hours": 10,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 36000
+          },
+          "time_to": {
+            "value": "11:00:00",
+            "title": "11:00",
+            "hours": 11,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 39600
+          },
+          "price": 2800,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 7,
+            "type_id": 2,
+            "number": 7,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433446,
+          "created_at": "2025-09-10 12:22:57",
+          "updated_at": "2025-09-10 12:22:57",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241319,
+          "court_id": 10,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "16:00:00",
+            "title": "16:00",
+            "hours": 16,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 57600
+          },
+          "time_to": {
+            "value": "17:00:00",
+            "title": "17:00",
+            "hours": 17,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 61200
+          },
+          "price": 2800,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 10,
+            "type_id": 2,
+            "number": 10,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433547,
+          "created_at": "2025-09-10 15:59:34",
+          "updated_at": "2025-09-10 15:59:34",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241347,
+          "court_id": 4,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "11:00:00",
+            "title": "11:00",
+            "hours": 11,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 39600
+          },
+          "time_to": {
+            "value": "12:00:00",
+            "title": "12:00",
+            "hours": 12,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 43200
+          },
+          "price": 2800,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 4,
+            "type_id": 2,
+            "number": 4,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433548,
+          "created_at": "2025-09-10 15:59:46",
+          "updated_at": "2025-09-10 15:59:46",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241348,
+          "court_id": 4,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "12:00:00",
+            "title": "12:00",
+            "hours": 12,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 43200
+          },
+          "time_to": {
+            "value": "13:00:00",
+            "title": "13:00",
+            "hours": 13,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 46800
+          },
+          "price": 2800,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 4,
+            "type_id": 2,
+            "number": 4,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433554,
+          "created_at": "2025-09-10 17:04:30",
+          "updated_at": "2025-09-10 17:04:30",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241354,
+          "court_id": 5,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "08:30:00",
+            "title": "08:30",
+            "hours": 8,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 30600
+          },
+          "time_to": {
+            "value": "10:00:00",
+            "title": "10:00",
+            "hours": 10,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 36000
+          },
+          "price": 3300,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 5,
+            "type_id": 2,
+            "number": 5,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433555,
+          "created_at": "2025-09-10 17:10:33",
+          "updated_at": "2025-09-10 17:10:33",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241355,
+          "court_id": 101,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "15:00:00",
+            "title": "15:00",
+            "hours": 15,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 54000
+          },
+          "time_to": {
+            "value": "16:00:00",
+            "title": "16:00",
+            "hours": 16,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 57600
+          },
+          "price": 2800,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 101,
+            "type_id": 6,
+            "number": 1,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2023-08-01 10:32:40",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 433556,
+          "created_at": "2025-09-10 17:19:02",
+          "updated_at": "2025-09-10 17:19:02",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241356,
+          "court_id": 58,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "09:00:00",
+            "title": "09:00",
+            "hours": 9,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 32400
+          },
+          "time_to": {
+            "value": "10:00:00",
+            "title": "10:00",
+            "hours": 10,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 36000
+          },
+          "price": 2200,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 58,
+            "type_id": 6,
+            "number": 2,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2019-08-29 17:45:42",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 433571,
+          "created_at": "2025-09-10 19:32:06",
+          "updated_at": "2025-09-10 19:32:06",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241370,
+          "court_id": 11,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "17:00:00",
+            "title": "17:00",
+            "hours": 17,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 61200
+          },
+          "time_to": {
+            "value": "18:00:00",
+            "title": "18:00",
+            "hours": 18,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 64800
+          },
+          "price": 3900,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 11,
+            "type_id": 2,
+            "number": 11,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433573,
+          "created_at": "2025-09-10 19:35:01",
+          "updated_at": "2025-09-10 19:35:01",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241372,
+          "court_id": 6,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "18:00:00",
+            "title": "18:00",
+            "hours": 18,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 64800
+          },
+          "time_to": {
+            "value": "20:00:00",
+            "title": "20:00",
+            "hours": 20,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 72000
+          },
+          "price": 7800,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 6,
+            "type_id": 2,
+            "number": 6,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433577,
+          "created_at": "2025-09-10 20:33:13",
+          "updated_at": "2025-09-10 20:33:13",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241376,
+          "court_id": 7,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "20:00:00",
+            "title": "20:00",
+            "hours": 20,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 72000
+          },
+          "time_to": {
+            "value": "20:30:00",
+            "title": "20:30",
+            "hours": 20,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 73800
+          },
+          "price": 1950,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 7,
+            "type_id": 2,
+            "number": 7,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433578,
+          "created_at": "2025-09-10 20:33:13",
+          "updated_at": "2025-09-10 20:33:13",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241377,
+          "court_id": 12,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "19:30:00",
+            "title": "19:30",
+            "hours": 19,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 70200
+          },
+          "time_to": {
+            "value": "20:00:00",
+            "title": "20:00",
+            "hours": 20,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 72000
+          },
+          "price": 1950,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 12,
+            "type_id": 2,
+            "number": 12,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433590,
+          "created_at": "2025-09-10 23:33:07",
+          "updated_at": "2025-09-10 23:33:07",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241388,
+          "court_id": 12,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "18:30:00",
+            "title": "18:30",
+            "hours": 18,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 66600
+          },
+          "time_to": {
+            "value": "19:30:00",
+            "title": "19:30",
+            "hours": 19,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 70200
+          },
+          "price": 3900,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 12,
+            "type_id": 2,
+            "number": 12,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433597,
+          "created_at": "2025-09-11 08:25:58",
+          "updated_at": "2025-09-11 08:25:58",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241395,
+          "court_id": 63,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "11:30:00",
+            "title": "11:30",
+            "hours": 11,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 41400
+          },
+          "time_to": {
+            "value": "12:30:00",
+            "title": "12:30",
+            "hours": 12,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 45000
+          },
+          "price": 2800,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 63,
+            "type_id": 6,
+            "number": 3,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2021-08-26 11:55:29",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 433602,
+          "created_at": "2025-09-11 09:15:15",
+          "updated_at": "2025-09-11 09:15:15",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241400,
+          "court_id": 55,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "10:00:00",
+            "title": "10:00",
+            "hours": 10,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 36000
+          },
+          "time_to": {
+            "value": "12:00:00",
+            "title": "12:00",
+            "hours": 12,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 43200
+          },
+          "price": 5600,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 55,
+            "type_id": 2,
+            "number": 14,
+            "inflate_id": 0,
+            "everywhere": 0,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433748,
+          "created_at": "2025-09-11 16:17:33",
+          "updated_at": "2025-09-11 16:17:33",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241440,
+          "court_id": 58,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "22:00:00",
+            "title": "22:00",
+            "hours": 22,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 79200
+          },
+          "time_to": {
+            "value": "23:30:00",
+            "title": "23:30",
+            "hours": 23,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 84600
+          },
+          "price": 3300,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 58,
+            "type_id": 6,
+            "number": 2,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2019-08-29 17:45:42",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 433773,
+          "created_at": "2025-09-11 18:48:33",
+          "updated_at": "2025-09-11 18:48:33",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241465,
+          "court_id": 63,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "14:30:00",
+            "title": "14:30",
+            "hours": 14,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 52200
+          },
+          "time_to": {
+            "value": "16:00:00",
+            "title": "16:00",
+            "hours": 16,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 57600
+          },
+          "price": 4200,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 63,
+            "type_id": 6,
+            "number": 3,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2021-08-26 11:55:29",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 433780,
+          "created_at": "2025-09-11 19:33:07",
+          "updated_at": "2025-09-11 19:33:07",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241472,
+          "court_id": 7,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "12:00:00",
+            "title": "12:00",
+            "hours": 12,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 43200
+          },
+          "time_to": {
+            "value": "13:00:00",
+            "title": "13:00",
+            "hours": 13,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 46800
+          },
+          "price": 2800,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 7,
+            "type_id": 2,
+            "number": 7,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433803,
+          "created_at": "2025-09-12 07:35:34",
+          "updated_at": "2025-09-12 07:35:34",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241494,
+          "court_id": 5,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "10:00:00",
+            "title": "10:00",
+            "hours": 10,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 36000
+          },
+          "time_to": {
+            "value": "11:30:00",
+            "title": "11:30",
+            "hours": 11,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 41400
+          },
+          "price": 4200,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 5,
+            "type_id": 2,
+            "number": 5,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433828,
+          "created_at": "2025-09-12 12:25:50",
+          "updated_at": "2025-09-12 12:25:50",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241519,
+          "court_id": 101,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "12:00:00",
+            "title": "12:00",
+            "hours": 12,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 43200
+          },
+          "time_to": {
+            "value": "14:00:00",
+            "title": "14:00",
+            "hours": 14,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 50400
+          },
+          "price": 5600,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 101,
+            "type_id": 6,
+            "number": 1,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2023-08-01 10:32:40",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 433845,
+          "created_at": "2025-09-12 12:55:48",
+          "updated_at": "2025-09-12 12:55:48",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241536,
+          "court_id": 9,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "09:00:00",
+            "title": "09:00",
+            "hours": 9,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 32400
+          },
+          "time_to": {
+            "value": "10:00:00",
+            "title": "10:00",
+            "hours": 10,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 36000
+          },
+          "price": 2200,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 9,
+            "type_id": 2,
+            "number": 9,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433852,
+          "created_at": "2025-09-12 14:10:03",
+          "updated_at": "2025-09-12 14:10:03",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241543,
+          "court_id": 101,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "20:30:00",
+            "title": "20:30",
+            "hours": 20,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 73800
+          },
+          "time_to": {
+            "value": "22:00:00",
+            "title": "22:00",
+            "hours": 22,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 79200
+          },
+          "price": 5850,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 101,
+            "type_id": 6,
+            "number": 1,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2023-08-01 10:32:40",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 433868,
+          "created_at": "2025-09-12 15:41:05",
+          "updated_at": "2025-09-12 15:41:05",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241559,
+          "court_id": 8,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "12:00:00",
+            "title": "12:00",
+            "hours": 12,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 43200
+          },
+          "time_to": {
+            "value": "13:00:00",
+            "title": "13:00",
+            "hours": 13,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 46800
+          },
+          "price": 2800,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 8,
+            "type_id": 2,
+            "number": 8,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433869,
+          "created_at": "2025-09-12 15:41:14",
+          "updated_at": "2025-09-12 15:41:14",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241560,
+          "court_id": 8,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "13:00:00",
+            "title": "13:00",
+            "hours": 13,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 46800
+          },
+          "time_to": {
+            "value": "14:00:00",
+            "title": "14:00",
+            "hours": 14,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 50400
+          },
+          "price": 2800,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 8,
+            "type_id": 2,
+            "number": 8,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433870,
+          "created_at": "2025-09-12 15:41:23",
+          "updated_at": "2025-09-12 15:41:23",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241561,
+          "court_id": 8,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "14:00:00",
+            "title": "14:00",
+            "hours": 14,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 50400
+          },
+          "time_to": {
+            "value": "15:00:00",
+            "title": "15:00",
+            "hours": 15,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 54000
+          },
+          "price": 2800,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 8,
+            "type_id": 2,
+            "number": 8,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 433871,
+          "created_at": "2025-09-12 15:41:32",
+          "updated_at": "2025-09-12 15:41:32",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241562,
+          "court_id": 8,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "15:00:00",
+            "title": "15:00",
+            "hours": 15,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 54000
+          },
+          "time_to": {
+            "value": "16:00:00",
+            "title": "16:00",
+            "hours": 16,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 57600
+          },
+          "price": 2800,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 8,
+            "type_id": 2,
+            "number": 8,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 434012,
+          "created_at": "2025-09-13 09:42:33",
+          "updated_at": "2025-09-13 09:42:33",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241629,
+          "court_id": 63,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "12:30:00",
+            "title": "12:30",
+            "hours": 12,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 45000
+          },
+          "time_to": {
+            "value": "14:30:00",
+            "title": "14:30",
+            "hours": 14,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 52200
+          },
+          "price": 5600,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 63,
+            "type_id": 6,
+            "number": 3,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2021-08-26 11:55:29",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 434045,
+          "created_at": "2025-09-13 14:42:41",
+          "updated_at": "2025-09-13 14:42:41",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241662,
+          "court_id": 7,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "22:00:00",
+            "title": "22:00",
+            "hours": 22,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 79200
+          },
+          "time_to": {
+            "value": "23:00:00",
+            "title": "23:00",
+            "hours": 23,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 82800
+          },
+          "price": 2200,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 7,
+            "type_id": 2,
+            "number": 7,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 434067,
+          "created_at": "2025-09-13 17:20:09",
+          "updated_at": "2025-09-13 17:20:34",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": "2025-09-13 17:20:34",
+          "order_id": 241684,
+          "court_id": 13,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "15:30:00",
+            "title": "15:30",
+            "hours": 15,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 55800
+          },
+          "time_to": {
+            "value": "17:00:00",
+            "title": "17:00",
+            "hours": 17,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 61200
+          },
+          "price": 4200,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 13,
+            "type_id": 2,
+            "number": 13,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 434068,
+          "created_at": "2025-09-13 17:20:23",
+          "updated_at": "2025-09-13 17:20:39",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": "2025-09-13 17:20:39",
+          "order_id": 241685,
+          "court_id": 12,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "15:30:00",
+            "title": "15:30",
+            "hours": 15,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 55800
+          },
+          "time_to": {
+            "value": "17:00:00",
+            "title": "17:00",
+            "hours": 17,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 61200
+          },
+          "price": 4200,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 12,
+            "type_id": 2,
+            "number": 12,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 434077,
+          "created_at": "2025-09-13 18:21:58",
+          "updated_at": "2025-09-13 18:21:58",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241693,
+          "court_id": 101,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "14:00:00",
+            "title": "14:00",
+            "hours": 14,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 50400
+          },
+          "time_to": {
+            "value": "15:00:00",
+            "title": "15:00",
+            "hours": 15,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 54000
+          },
+          "price": 2800,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 101,
+            "type_id": 6,
+            "number": 1,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2023-08-01 10:32:40",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 434084,
+          "created_at": "2025-09-13 19:37:46",
+          "updated_at": "2025-09-13 19:37:46",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241700,
+          "court_id": 9,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "10:00:00",
+            "title": "10:00",
+            "hours": 10,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 36000
+          },
+          "time_to": {
+            "value": "11:30:00",
+            "title": "11:30",
+            "hours": 11,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 41400
+          },
+          "price": 4200,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 9,
+            "type_id": 2,
+            "number": 9,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 434090,
+          "created_at": "2025-09-13 21:09:40",
+          "updated_at": "2025-09-13 21:09:40",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241706,
+          "court_id": 63,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "21:00:00",
+            "title": "21:00",
+            "hours": 21,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 75600
+          },
+          "time_to": {
+            "value": "23:00:00",
+            "title": "23:00",
+            "hours": 23,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 82800
+          },
+          "price": 6100,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 63,
+            "type_id": 6,
+            "number": 3,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2021-08-26 11:55:29",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 434163,
+          "created_at": "2025-09-15 10:05:43",
+          "updated_at": "2025-09-15 10:05:43",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241777,
+          "court_id": 58,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "20:30:00",
+            "title": "20:30",
+            "hours": 20,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 73800
+          },
+          "time_to": {
+            "value": "22:00:00",
+            "title": "22:00",
+            "hours": 22,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 79200
+          },
+          "price": 5850,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 6,
+            "name": "Хард",
+            "short": "Хард",
+            "cut": "Хард (крыт.)",
+            "label": "hard"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 58,
+            "type_id": 6,
+            "number": 2,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2019-08-29 17:45:42",
+            "type": {
+              "id": 6,
+              "name": "Хард",
+              "short": "Хард",
+              "cut": "Хард (крыт.)",
+              "label": "hard"
+            }
+          }
+        },
+        {
+          "id": 434210,
+          "created_at": "2025-09-15 12:10:43",
+          "updated_at": "2025-09-15 12:10:43",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241789,
+          "court_id": 12,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "22:00:00",
+            "title": "22:00",
+            "hours": 22,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 79200
+          },
+          "time_to": {
+            "value": "23:00:00",
+            "title": "23:00",
+            "hours": 23,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 82800
+          },
+          "price": 2200,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 12,
+            "type_id": 2,
+            "number": 12,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 434247,
+          "created_at": "2025-09-15 15:09:25",
+          "updated_at": "2025-09-15 15:09:25",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241826,
+          "court_id": 11,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "18:00:00",
+            "title": "18:00",
+            "hours": 18,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 64800
+          },
+          "time_to": {
+            "value": "19:00:00",
+            "title": "19:00",
+            "hours": 19,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 68400
+          },
+          "price": 3900,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 11,
+            "type_id": 2,
+            "number": 11,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 434248,
+          "created_at": "2025-09-15 15:09:25",
+          "updated_at": "2025-09-15 15:09:25",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241826,
+          "court_id": 13,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "18:30:00",
+            "title": "18:30",
+            "hours": 18,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 66600
+          },
+          "time_to": {
+            "value": "19:30:00",
+            "title": "19:30",
+            "hours": 19,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 70200
+          },
+          "price": 3900,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 13,
+            "type_id": 2,
+            "number": 13,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 434260,
+          "created_at": "2025-09-15 17:35:52",
+          "updated_at": "2025-09-15 17:35:52",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241838,
+          "court_id": 8,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "11:00:00",
+            "title": "11:00",
+            "hours": 11,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 39600
+          },
+          "time_to": {
+            "value": "12:00:00",
+            "title": "12:00",
+            "hours": 12,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 43200
+          },
+          "price": 2800,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 8,
+            "type_id": 2,
+            "number": 8,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 434261,
+          "created_at": "2025-09-15 17:36:05",
+          "updated_at": "2025-09-15 17:36:05",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241839,
+          "court_id": 9,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "12:00:00",
+            "title": "12:00",
+            "hours": 12,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 43200
+          },
+          "time_to": {
+            "value": "13:30:00",
+            "title": "13:30",
+            "hours": 13,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 48600
+          },
+          "price": 4200,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 9,
+            "type_id": 2,
+            "number": 9,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 434262,
+          "created_at": "2025-09-15 17:36:18",
+          "updated_at": "2025-09-15 17:36:18",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241840,
+          "court_id": 9,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "13:30:00",
+            "title": "13:30",
+            "hours": 13,
+            "minutes": 30,
+            "seconds": 0,
+            "totalSeconds": 48600
+          },
+          "time_to": {
+            "value": "15:00:00",
+            "title": "15:00",
+            "hours": 15,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 54000
+          },
+          "price": 4200,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 9,
+            "type_id": 2,
+            "number": 9,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        },
+        {
+          "id": 434263,
+          "created_at": "2025-09-15 17:36:56",
+          "updated_at": "2025-09-15 17:36:56",
+          "deleted_at": null,
+          "delete_sharing": 0,
+          "moved_at": null,
+          "order_id": 241841,
+          "court_id": 7,
+          "date_at": "2025-09-17 00:00:00",
+          "time_from": {
+            "value": "16:00:00",
+            "title": "16:00",
+            "hours": 16,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 57600
+          },
+          "time_to": {
+            "value": "17:00:00",
+            "title": "17:00",
+            "hours": 17,
+            "minutes": 0,
+            "seconds": 0,
+            "totalSeconds": 61200
+          },
+          "price": 2800,
+          "price_detail": "0",
+          "payment_at": null,
+          "partially_at": null,
+          "date_weekday": 3,
+          "court_type": {
+            "id": 2,
+            "name": "Грунт",
+            "short": "Грунт",
+            "cut": "Грунт",
+            "label": "grunt"
+          },
+          "date_localized": "17 Сентября, Среда",
+          "court": {
+            "id": 7,
+            "type_id": 2,
+            "number": 7,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00",
+            "type": {
+              "id": 2,
+              "name": "Грунт",
+              "short": "Грунт",
+              "cut": "Грунт",
+              "label": "grunt"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "court_analysis": {
+    "total_court_types": 3,
+    "court_types_info": [
+      {
+        "name": "Хард",
+        "courts_count": 3,
+        "courts": [
+          {
+            "id": 101,
+            "type_id": 6,
+            "number": 1,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2023-08-01 10:32:40"
+          },
+          {
+            "id": 58,
+            "type_id": 6,
+            "number": 2,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2019-08-29 17:45:42"
+          },
+          {
+            "id": 63,
+            "type_id": 6,
+            "number": 3,
+            "inflate_id": 1,
+            "everywhere": 1,
+            "created_date": "2021-08-26 11:55:29"
+          }
+        ]
+      },
+      {
+        "name": "Грунт",
+        "courts_count": 10,
+        "courts": [
+          {
+            "id": 4,
+            "type_id": 2,
+            "number": 4,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00"
+          },
+          {
+            "id": 5,
+            "type_id": 2,
+            "number": 5,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00"
+          },
+          {
+            "id": 6,
+            "type_id": 2,
+            "number": 6,
+            "inflate_id": 2,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00"
+          },
+          {
+            "id": 7,
+            "type_id": 2,
+            "number": 7,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00"
+          },
+          {
+            "id": 8,
+            "type_id": 2,
+            "number": 8,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00"
+          },
+          {
+            "id": 9,
+            "type_id": 2,
+            "number": 9,
+            "inflate_id": 3,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00"
+          },
+          {
+            "id": 10,
+            "type_id": 2,
+            "number": 10,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00"
+          },
+          {
+            "id": 11,
+            "type_id": 2,
+            "number": 11,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00"
+          },
+          {
+            "id": 12,
+            "type_id": 2,
+            "number": 12,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00"
+          },
+          {
+            "id": 13,
+            "type_id": 2,
+            "number": 13,
+            "inflate_id": 4,
+            "everywhere": 1,
+            "created_date": "2015-01-01 00:00:00"
+          }
+        ]
+      },
+      {
+        "name": "Трава",
+        "courts_count": 1,
+        "courts": [
+          {
+            "id": 104,
+            "type_id": 3,
+            "number": 17,
+            "inflate_id": 0,
+            "everywhere": 1,
+            "created_date": "2024-05-20 12:51:09"
+          }
+        ]
+      }
+    ]
+  }
+}

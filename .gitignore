@@ -1,0 +1,57 @@
+# Конфигурационные файлы с токенами
+telegram_config.json
+config.json
+*.env
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Логи
+*.log
+logs/
+
+# Временные файлы
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Отладочные файлы
+debug_*.py
+test_*.py
+*_debug.*

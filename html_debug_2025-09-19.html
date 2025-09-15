@@ -1,0 +1,888 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="larfeus">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+
+            <meta property="og:url" content="https://x19.spb.ru/bronirovanie/" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Ð¢ÐµÐ½Ð½Ð¸ÑÐ½ÑÐ¹ ÐºÐ»ÑÐ± Ð¥Ð°ÑÐ°Ð½ÑÐºÐ°Ñ 19. ÐÑÐ¾Ð½Ð¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ ÐºÐ¾ÑÑÐ¾Ð²" />
+        <meta property="og:description" content="Ð¡Ð°Ð½ÐºÑ-ÐÐµÑÐµÑÐ±ÑÑÐ³, ÑÐ». Ð¥Ð°ÑÐ°Ð½ÑÐºÐ°Ñ Ð´.19. Ð¡ Ð¿Ð¾Ð¼Ð¾ÑÑÑ ÑÑÐ¾Ð³Ð¾ ÑÐµÑÐ²Ð¸ÑÐ° ÐÑ Ð¼Ð¾Ð¶ÐµÑÐµ Ð·Ð°Ð±ÑÐ¾Ð½Ð¸ÑÐ¾Ð²Ð°ÑÑ ÑÐ°Ð·Ð¾Ð²Ð¾Ðµ Ð¿Ð¾ÑÐµÑÐµÐ½Ð¸Ðµ ÑÐµÐ½Ð½Ð¸ÑÐ½Ð¾Ð³Ð¾ ÐºÐ¾ÑÑÐ°." />
+        <meta property="og:image" content="https://x19.spb.ru/bronirovanie/i/X19_booking_VK_share.jpg" />
+    
+    
+    
+    <title>Ð¥Ð°ÑÐ°Ð½ÑÐºÐ°Ñ 19 :: Ð¢ÐµÐ½Ð½Ð¸ÑÐ½ÑÐµ ÐºÐ¾ÑÑÑ</title>
+    <link id="favicon" rel="shortcut icon" href="//x19.spb.ru/favicon.ico" type="image/x-icon" />
+
+    
+
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/libs/jquery-1.10.1.min.js"></script>
+    <![endif]-->
+
+    <!--[if gte IE 9]><!-->
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/libs/jquery-2.2.4.min.js"></script>
+    <!--<![endif]-->
+
+    
+
+    <link type="text/css" rel="stylesheet" href="//006.spb.ru/resources/public/js/libs/jreject/css/jquery.reject.css?300522" />
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/libs/jreject/js/jquery.reject.js?300522"></script>
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/reject.js?300522"></script>
+
+    
+
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/libs/jquery-ui/jquery.ui-1.12.1.min.js?300522"></script>
+
+    
+
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/libs/jquery.color.min.js?300522"></script>
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/libs/jquery.cookie.js?300522"></script>
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/libs/jquery.form.min.js?300522"></script>
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/libs/mutation-summary.js?300522"></script>
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/clock.js?300522"></script>
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/watcher.js?300522"></script>
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/longpolling.js?300522"></script>
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/mutate.js?300522"></script>
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/polyfill.js?300522"></script>
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/atpoint.js?300522"></script>
+
+    
+
+    <link type="text/css" rel="stylesheet" href="//006.spb.ru/resources/public/bootstrap/3.3.7/css/bootstrap.min.css?300522" />
+    <link type="text/css" rel="stylesheet" href="//006.spb.ru/resources/public/bootstrap/3.3.7/css/bootstrap-user.css?300522" />
+    <script type="text/javascript" src="//006.spb.ru/resources/public/bootstrap/3.3.7/js/bootstrap.min.js?300522"></script>
+
+    
+
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/libs/inputmask/inputmask.js?300522"></script>
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/libs/inputmask/inputmask.extensions.js?300522"></script>
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/libs/inputmask/jquery.inputmask.js?300522"></script>
+
+    
+
+    <link type="text/css" rel="stylesheet" href="//006.spb.ru/resources/public/js/libs/datetimepicker/jquery.datetimepicker.min.css?300522" />
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/libs/datetimepicker/jquery.datetimepicker.full.min.js?300522"></script>
+
+    
+
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/libs/moment/moment-with-locales.js?300522"></script>
+    <script type="text/javascript" src="//006.spb.ru/resources/public/bootstrap/daterangepicker/daterangepicker.js?300522"></script>
+    <link type="text/css" rel="stylesheet" href="//006.spb.ru/resources/public/bootstrap/daterangepicker/daterangepicker.css?300522" />
+
+    
+
+    <script type="text/javascript" src="//006.spb.ru/resources/public/bootstrap/select/js/bootstrap-select.min.js?300522"></script>
+    <script type="text/javascript" src="//006.spb.ru/resources/public/bootstrap/select/js/i18n/defaults-ru_RU.min.js?300522"></script>
+    <link type="text/css" rel="stylesheet" href="//006.spb.ru/resources/public/bootstrap/select/css/bootstrap-select.min.css?300522" />
+
+    
+
+    <script type="text/javascript" src="//006.spb.ru/resources/public/bootstrap/typeahead/bootstrap3-typeahead.min.js?300522"></script>
+
+    
+
+    <script type="text/javascript" src="//006.spb.ru/resources/public/bootstrap/tabselect/tabselect.js?300522"></script>
+
+    
+
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/libs/fancybox/jquery.fancybox.pack.js?300522"></script>
+    <link type="text/css" rel="stylesheet" href="//006.spb.ru/resources/public/js/libs/fancybox/jquery.fancybox.css?300522" />
+
+    
+
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/libs/underscore/underscore.min.js?300522"></script>
+
+    
+
+            <script type="text/javascript" src="//006.spb.ru/resources/public/js/libs/vue/vue.min.js?300522"></script>
+    
+    
+
+    <script type="text/javascript" src="//006.spb.ru/resources/public/js/libs/historyjs/bundled/html4+html5/jquery.history.js?300522"></script>
+
+
+    
+
+    <script type="text/javascript" src="//x19.spb.ru/bronirovanie/i/js/functions.js?300522"></script>
+
+
+    
+
+    
+
+    
+    
+
+    <link type="text/css" rel="stylesheet" href="//006.spb.ru/resources/public/css/common.css" />
+
+    <link type="text/css" rel="stylesheet" href="//x19.spb.ru/bronirovanie/i/bem/components/button.css?300522" />
+    <link type="text/css" rel="stylesheet" href="//x19.spb.ru/bronirovanie/i/bem/components/list.css?300522" />
+    <link type="text/css" rel="stylesheet" href="//x19.spb.ru/bronirovanie/i/bem/components/input.css?300522" />
+    <link type="text/css" rel="stylesheet" href="//x19.spb.ru/bronirovanie/i/bem/components/header.css?300522" />
+    <link type="text/css" rel="stylesheet" href="//x19.spb.ru/bronirovanie/i/bem/components/plan.css?300522" />
+    <link type="text/css" rel="stylesheet" href="//x19.spb.ru/bronirovanie/i/bem/components/legend.css?300522" />
+    <link type="text/css" rel="stylesheet" href="//x19.spb.ru/bronirovanie/i/bem/components/content.css?300522" />
+    <link type="text/css" rel="stylesheet" href="//x19.spb.ru/bronirovanie/i/bem/components/footer.css?300522" />
+
+    <link type="text/css" rel="stylesheet" href="//x19.spb.ru/bronirovanie/i/bem/components/auth.css?300522" />
+
+    <link type="text/css" rel="stylesheet" href="//x19.spb.ru/bronirovanie/i/bem/components/main.css?300522" />
+    <link type="text/css" rel="stylesheet" href="//x19.spb.ru/bronirovanie/i/bem/components/timemap.css?300522" />
+
+    <link type="text/css" rel="stylesheet" href="//x19.spb.ru/bronirovanie/i/bem/helpers/text.css?300522" />
+    <link type="text/css" rel="stylesheet" href="//x19.spb.ru/bronirovanie/i/bem/helpers/cursor.css?300522" />
+    <link type="text/css" rel="stylesheet" href="//x19.spb.ru/bronirovanie/i/bem/helpers/block.css?300522" />
+
+            <script type="text/javascript" src="//006.spb.ru/resources/public/js/block.contextmenu.js?300522"></script>
+    
+            <link type="text/css" rel="stylesheet" href="//x19.spb.ru/bronirovanie/i/bem/components/x19.css?300522" />
+    
+    
+
+    
+            <link type="text/css" rel="stylesheet" href="//006.spb.ru/resources/public/css/selection.css?300522" />
+    
+    
+    
+    
+</head>
+<body class="body">
+
+    <div id="app" class="app" :style="is_loaded?'':'opacity:0'">
+
+        
+        <div class="client ">
+
+            <div class="ajax-loader" v-if="!initialized">
+                <img src="//006.spb.ru/resources/public/images/ajax-loader2.gif" />
+            </div>
+
+            <div class="header header--fixed">
+
+                
+
+                    <div class="header__offset"></div>
+                    <div class="header__body">
+                                                    <div class="plan plan--footer">
+                                <a href="/bronirovanie/i/plan2024summersite.svg?i" class="fancybox" title="ÐÐ°Ð¶Ð¼Ð¸ÑÐµ, ÑÑÐ¾Ð±Ñ Ð¿Ð¾ÑÐ¼Ð¾ÑÑÐµÑÑ Ð¿Ð»Ð°Ð½ ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑÐ°">
+                                    <img src="/bronirovanie/i/plan2024thumbsite.jpg?3" class="plan__image" />
+                                    <span class="plan__title">Ð¿Ð»Ð°Ð½ <br> ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑÐ°</span>
+                                </a>
+                            </div>
+                                                <div class="client-header">
+                                                            <a href="https://x19.spb.ru/" class="button button--back">
+                                    <span class="button__text">&lt;&lt; Ð½Ð°Ð·Ð°Ð´</span>
+                                </a>
+                                
+
+                            <h1 class="header__title"><a href="/">Ð¢ÐµÐ½Ð½Ð¸ÑÐ½ÑÐ¹ ÐºÐ»ÑÐ± &laquo;Ð¥Ð°ÑÐ°Ð½ÑÐºÐ¸Ð¹&raquo; Ð±ÑÐ¾Ð½Ð¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ ÐºÐ¾ÑÑÐ¾Ð²</a></h1>
+
+                                                        <div class="header__prefix">Ð¡ Ð¿Ð¾Ð¼Ð¾ÑÑÑ ÑÑÐ¾Ð³Ð¾ ÑÐµÑÐ²Ð¸ÑÐ° ÐÑ Ð¼Ð¾Ð¶ÐµÑÐµ Ð·Ð°Ð±ÑÐ¾Ð½Ð¸ÑÐ¾Ð²Ð°ÑÑ ÑÐ°Ð·Ð¾Ð²Ð¾Ðµ Ð¿Ð¾ÑÐµÑÐµÐ½Ð¸Ðµ <br>ÑÐµÐ½Ð½Ð¸ÑÐ½ÑÑ ÐºÐ¾ÑÑÐ¾Ð². ÐÑÐ±ÐµÑÐ¸ÑÐµ Ð´Ð°ÑÑ Ð¸ Ð²ÑÐµÐ¼Ñ, Ð½Ð°Ð¶Ð¼Ð¸ÑÐµ "ÐÐÐÐ ÐÐÐÐ ÐÐÐÐ¢Ð¬".</div>
+                            
+                            <div class="control-block">
+                                <div class="control-block__header text-center">
+                                    <div class="control-block__title">ÐÑÐ±ÐµÑÐ¸ÑÐµ Ð´Ð°ÑÑ Ð¸ Ð²ÑÐµÐ¼Ñ:
+                                        <span class="control-block__today text-lowercase" role="button" v-on:click="date_today">ÑÐµÐ³Ð¾Ð´Ð½Ñ 15 Ð¡ÐµÐ½ÑÑÐ±ÑÑ</span>
+                                    </div>
+                                    <h2 class="control-date">
+                                        
+                                        <a v-if="datePrev" href="javascript:void(0)" class="button button--prev" title="ÐÐµÑÐµÐ¹ÑÐ¸ Ð½Ð° Ð¿ÑÐµÐ´ÑÐ´ÑÑÐ¸Ð¹ Ð´ÐµÐ½Ñ" v-on:click="date_prev">
+                                            <span class="button__text">&lt;&lt;</span>
+                                        </a>
+                                        <span v-else class="button button--prev button--empty"></span>
+                                        
+                                        <span class="control-date__title text-lowercase datepicker timemap-datepicker" role="button" data-start-date="2025-09-19" data-min-date="2025-09-15" data-max-date="2025-09-22" data-single-date-picker="true">
+                                            <span class="control-date__date">{{ dateLocalized }}</span>
+                                            <span class="control-date__helper">Ð²ÑÐ±ÑÐ°ÑÑ Ð´Ð°ÑÑ</span>
+                                        </span>
+                                        
+                                        <a v-if="dateNext" href="javascript:void(0);" class="button button--next" title="ÐÐµÑÐµÐ¹ÑÐ¸ Ð½Ð° ÑÐ»ÐµÐ´ÑÑÑÐ¸Ð¹ Ð´ÐµÐ½Ñ" v-on:click="date_next">
+                                            <span class="button__text">&gt;&gt;</span>
+                                        </a>
+                                        <span v-else class="button button--prev button--empty"></span>
+                                    </h2>
+                                </div>
+                            </div>
+                        </div>
+                                                    <span style="display: block; font-size: 17px; text-align: center; margin-bottom: 25px;">Ð¡ÐµÑÑÐ¼ ÑÐ²ÐµÑÐ¾Ð¼ ÑÐºÐ°Ð·Ð°Ð½Ð¾ Ð·Ð°Ð½ÑÑÐ¾Ðµ Ð²ÑÐµÐ¼Ñ, Ð±ÐµÐ»ÑÐ¼ - ÑÐ²Ð¾Ð±Ð¾Ð´Ð½Ð¾Ðµ.</span>
+                        
+                        <div class="timemap timemap--horizontal timemap--header">
+    <div class="timemap__header timemap__header--court-type">
+        <div class="timemap__header timemap__header--time">
+                        <div class="timemap__row timemap__row--first timemap__row--header">
+                
+                <template v-for="(time_item,time_index) in time_list">
+                    <div v-if="time_index%2==0"
+                         v-bind:class="{
+                            'timemap__cell--last': is_last(time_index+1, time_list),
+                            'text-muted': time_line!==false && is_past(time_list[time_index+1].time_to),
+                            'text-bold': time_line===false || !is_past(time_list[time_index+1].time_to)
+                            }"
+                         class="timemap__cell timemap__cell--time-double text-center">
+                        {{ time_item.time_from.hours }}-{{ time_list[time_index+1].time_to.hours }}
+                    </div>
+                </template>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+                    </div>
+
+                
+            </div>
+            <div class="header header--fake">
+                                    <div class="header__offset"></div>
+                    <div class="header__body">
+                                                    <div class="plan plan--footer">
+                                <a href="/bronirovanie/i/plan2024summersite.svg?i" class="fancybox" title="ÐÐ°Ð¶Ð¼Ð¸ÑÐµ, ÑÑÐ¾Ð±Ñ Ð¿Ð¾ÑÐ¼Ð¾ÑÑÐµÑÑ Ð¿Ð»Ð°Ð½ ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑÐ°">
+                                    <img src="/bronirovanie/i/plan2024thumbsite.jpg?3" class="plan__image" />
+                                    <span class="plan__title">Ð¿Ð»Ð°Ð½ <br> ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑÐ°</span>
+                                </a>
+                            </div>
+                                                <div class="client-header">
+                                                            <a href="https://x19.spb.ru/" class="button button--back">
+                                    <span class="button__text">&lt;&lt; Ð½Ð°Ð·Ð°Ð´</span>
+                                </a>
+                                
+
+                            <h1 class="header__title"><a href="/">Ð¢ÐµÐ½Ð½Ð¸ÑÐ½ÑÐ¹ ÐºÐ»ÑÐ± &laquo;Ð¥Ð°ÑÐ°Ð½ÑÐºÐ¸Ð¹&raquo; Ð±ÑÐ¾Ð½Ð¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ ÐºÐ¾ÑÑÐ¾Ð²</a></h1>
+
+                                                        <div class="header__prefix">Ð¡ Ð¿Ð¾Ð¼Ð¾ÑÑÑ ÑÑÐ¾Ð³Ð¾ ÑÐµÑÐ²Ð¸ÑÐ° ÐÑ Ð¼Ð¾Ð¶ÐµÑÐµ Ð·Ð°Ð±ÑÐ¾Ð½Ð¸ÑÐ¾Ð²Ð°ÑÑ ÑÐ°Ð·Ð¾Ð²Ð¾Ðµ Ð¿Ð¾ÑÐµÑÐµÐ½Ð¸Ðµ <br>ÑÐµÐ½Ð½Ð¸ÑÐ½ÑÑ ÐºÐ¾ÑÑÐ¾Ð². ÐÑÐ±ÐµÑÐ¸ÑÐµ Ð´Ð°ÑÑ Ð¸ Ð²ÑÐµÐ¼Ñ, Ð½Ð°Ð¶Ð¼Ð¸ÑÐµ "ÐÐÐÐ ÐÐÐÐ ÐÐÐÐ¢Ð¬".</div>
+                            
+                            <div class="control-block">
+                                <div class="control-block__header text-center">
+                                    <div class="control-block__title">ÐÑÐ±ÐµÑÐ¸ÑÐµ Ð´Ð°ÑÑ Ð¸ Ð²ÑÐµÐ¼Ñ:
+                                        <span class="control-block__today text-lowercase" role="button" v-on:click="date_today">ÑÐµÐ³Ð¾Ð´Ð½Ñ 15 Ð¡ÐµÐ½ÑÑÐ±ÑÑ</span>
+                                    </div>
+                                    <h2 class="control-date">
+                                        
+                                        <a v-if="datePrev" href="javascript:void(0)" class="button button--prev" title="ÐÐµÑÐµÐ¹ÑÐ¸ Ð½Ð° Ð¿ÑÐµÐ´ÑÐ´ÑÑÐ¸Ð¹ Ð´ÐµÐ½Ñ" v-on:click="date_prev">
+                                            <span class="button__text">&lt;&lt;</span>
+                                        </a>
+                                        <span v-else class="button button--prev button--empty"></span>
+                                        
+                                        <span class="control-date__title text-lowercase datepicker timemap-datepicker" role="button" data-start-date="2025-09-19" data-min-date="2025-09-15" data-max-date="2025-09-22" data-single-date-picker="true">
+                                            <span class="control-date__date">{{ dateLocalized }}</span>
+                                            <span class="control-date__helper">Ð²ÑÐ±ÑÐ°ÑÑ Ð´Ð°ÑÑ</span>
+                                        </span>
+                                        
+                                        <a v-if="dateNext" href="javascript:void(0);" class="button button--next" title="ÐÐµÑÐµÐ¹ÑÐ¸ Ð½Ð° ÑÐ»ÐµÐ´ÑÑÑÐ¸Ð¹ Ð´ÐµÐ½Ñ" v-on:click="date_next">
+                                            <span class="button__text">&gt;&gt;</span>
+                                        </a>
+                                        <span v-else class="button button--prev button--empty"></span>
+                                    </h2>
+                                </div>
+                            </div>
+                        </div>
+                                                    <span style="display: block; font-size: 17px; text-align: center; margin-bottom: 25px;">Ð¡ÐµÑÑÐ¼ ÑÐ²ÐµÑÐ¾Ð¼ ÑÐºÐ°Ð·Ð°Ð½Ð¾ Ð·Ð°Ð½ÑÑÐ¾Ðµ Ð²ÑÐµÐ¼Ñ, Ð±ÐµÐ»ÑÐ¼ - ÑÐ²Ð¾Ð±Ð¾Ð´Ð½Ð¾Ðµ.</span>
+                        
+                        <div class="timemap timemap--horizontal timemap--header">
+    <div class="timemap__header timemap__header--court-type">
+        <div class="timemap__header timemap__header--time">
+                        <div class="timemap__row timemap__row--first timemap__row--header">
+                
+                <template v-for="(time_item,time_index) in time_list">
+                    <div v-if="time_index%2==0"
+                         v-bind:class="{
+                            'timemap__cell--last': is_last(time_index+1, time_list),
+                            'text-muted': time_line!==false && is_past(time_list[time_index+1].time_to),
+                            'text-bold': time_line===false || !is_past(time_list[time_index+1].time_to)
+                            }"
+                         class="timemap__cell timemap__cell--time-double text-center">
+                        {{ time_item.time_from.hours }}-{{ time_list[time_index+1].time_to.hours }}
+                    </div>
+                </template>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+                    </div>
+
+                           </div>
+
+            <div class="content">
+                
+                    <div class="block-inline_wrapper">
+                        <div class="block-inline">
+                                                            <template v-for="(court_type,court_type_index) in time_map">
+        
+        
+
+        
+        <div class="timemap timemap--horizontal" v-bind:class="court_type.disabled?'court_type_disabled':''">
+
+            
+
+                        
+            <div class="timemap__header timemap__header--court-type">
+                <div class="timemap__column timemap__cell timemap__cell--inflate" v-if="court_type.id < 3">&nbsp;</div>
+                <div class="timemap__header timemap__header--time">
+                    <div class="timemap__column timemap__cell timemap__cell--court text-center">
+                        <span v-if="court_type_index == 0">â</span>
+                    </div>
+                    <div class="timemap__row timemap__row--last timemap__row--header">
+                        <template v-for="(time_item,time_index) in time_list">
+                            <div v-if="time_index%2==0"
+                                 v-bind:class="{
+                                     'timemap_sell': is_stock(time_stock[court_type_index][time_index]),
+                                     'timemap__cell--last': is_last(time_index+1, time_list),
+                                     'text-muted': is_past(time_list[time_index+1].time_to),
+                                     'timemap__cell--last_of_price':
+                                        !is_last(time_index+1, time_list) &&
+                                        !is_last(time_index+2, time_list) &&
+                                        time_price[court_type_index][time_index] + time_price[court_type_index][time_index+1] !== time_price[court_type_index][time_index+2] + time_price[court_type_index][time_index+3]
+                                 }"
+                                 class="timemap__cell timemap__cell--time-double text-center">
+                                <small>({{ time_price[court_type_index][time_index] + time_price[court_type_index][time_index+1] }}Ñ)</small>
+                            </div>
+                        </template>
+                    </div>
+                </div>
+            </div>
+            
+            
+            
+
+            <div class="timemap__body timemap__body--first timemap__body--last timemap__body--court-type">
+
+                
+                
+                <div class="timemap__body timemap__body--inflate" v-for="(inflate,inflate_index) in court_type.inflates"
+                     v-bind:class="{
+                         'timemap__body--first': is_first(inflate_index),
+                         'timemap__body--last': is_last(inflate_index, court_type.inflates)
+                     }">
+                
+
+                    
+                    <div v-if="court_type.id < 3 || court_type.id == 6" class="timemap__column timemap__cell timemap__cell--inflate inflate">
+                        <div class="vertical-center">
+                            <span v-if="inflate.id > 0" class="vertical-center__text">
+                                <b>{{ court_type.name }}
+
+                                
+                                                                
+                                {{ inflate.opened ? '(Ð¾ÑÐºÑ.)' : '(ÐºÑÑÑ.)' }}</b><br/>
+                                
+                                
+                                
+                                
+                                                                
+                                <span class="inflate__name inflate__name--under">
+                                    
+                                    <template v-if="inflate.number <= 0">
+                                        ({{ inflate.name }})
+                                    </template>
+                                    
+                                    <template v-else>
+                                        <span style="position: relative; top: 5px;">ÐÑÑÐ¸Ðº â <b class="inflate__number">{{ inflate.number }}</b></span>
+                                    </template>
+                                </span>
+                                
+                                
+                            </span>
+                            <span v-else class="vertical-center__text">
+                                
+                                <b class="inflate__name inflate__name--nowrap">{{ court_type.short }} (<span v-if="inflate_index==8" class="inflate__type">ÑÐµÐ½ÑÑ</span><span v-else class="inflate__type inflate__type--letter-spacing">Ð¾ÑÐºÑ</span>)</b>
+                            </span>
+                        </div>
+                    </div>
+
+                    
+                    <div v-else-if="court_type.id >= 7 && court_type.id <= 8" class="timemap__column timemap__cell timemap__cell--inflate inflate">
+                        <div class="vertical-center">
+                            
+                            <span v-if="inflate.id > 0" class="vertical-center__text">
+                                <b>{{ court_type.cut }}
+                                
+
+                                                                
+                                {{ inflate.opened ? '(Ð¾ÑÐºÑ.)' : '(ÐºÑÑÑ.)' }}</b><br/>
+                                
+                                
+                                
+                                                                
+                                <span class="inflate__name inflate__name--under">
+
+                                    
+                                    <template v-if="inflate.number <= 0">
+                                        ({{ inflate.name }})
+                                    </template>
+
+
+
+                                    
+                                    <template v-else>
+                                        <span style="position: relative; top: 5px;">ÐÑÑÐ¸Ðº â <b class="inflate__number">{{ inflate.number }}</b></span>
+                                    </template>
+                                </span>
+                                
+                                
+                                
+                            </span>
+                            
+                            <span v-else class="vertical-center__text">
+                                <b class="inflate__name inflate__name--nowrap">{{ court_type.short }} (<span v-if="inflate_index==8" class="inflate__type">ÑÐµÐ½ÑÑ</span><span v-else class="inflate__type inflate__type--letter-spacing">Ð¾ÑÐºÑ</span>)</b>
+                            </span>
+                        </div>
+                    </div>
+
+                    
+                    <div v-else class="timemap__column timemap__cell timemap__cell--inflate timemap__cell--another">
+                        <div class="vertical-center">
+                            <span class="vertical-center__text" :class="'left_grid_inflate'+court_type.id">
+                                <b>{{ court_type.cut }}</b>
+                            </span>
+                        </div>
+                    </div>
+
+                    
+                    <div class="timemap__body timemap__body--court"
+                         v-for="(court,court_index) in inflate.courts"
+                         v-bind:class="{
+                             'timemap__body--first': is_first(court_index),
+                             'timemap__body--last': is_last(court_index, inflate.courts)
+                         }"
+                    >
+
+                        
+                        <div class="timemap__column timemap__cell timemap__cell--court">
+                            <div class="timemap__row timemap__row--time">
+                                <div class="timemap__cell timemap__cell--number timemap__cell--court text-center">{{ court.number }}</div>
+                            </div>
+                        </div>
+
+                        
+                        <div class="timemap__body timemap__body--time">
+                            <div class="timemap__row timemap__row--time">
+                                
+
+                                                                
+
+                                    
+                                    
+                                    <div class="timemap__group" v-for="(group,group_index) in court.groups"
+                                         v-bind:time-group="group.id"
+                                         v-bind:class="{
+                                                            'selected': group.selected,
+                                                            'ordered': group.ordered,
+                                                            'blocked': group.blocked,
+                                                            'editable': group.editable,
+                                                            'movable': group.movable,
+                                                            'free': !group.blocked,
+                                                            'updated': true,
+                                                            'timemap__type--pasted': !admin && group.pasted,
+                                                            'timemap__type--selected': group.selected,
+                                                            'timemap__type--once': group.ordered && group.type_id<2,
+                                                            'timemap__type--season': group.type_id==2,
+                                                            'timemap__type--group': group.type_id==3,
+                                                            'timemap__type--tourney': group.type_id==4,
+                                                            'timemap__type--season-once': group.type_id==5,
+                                                            'timemap__type--stock': group.type_id==6,
+                                                            'timemap__type--trainer': group.type_id==7,
+                                                            'timemap__type--deposit': group.type_id==8,
+                                                            'timemap__group--first': is_first(group_index),
+                                                            'timemap__group--last': is_last(group_index, court.groups)
+                                                          }"
+                                    >
+                                        <div class="timemap__cell timemap__handle timemap__cell--time" v-for="(cell,cell_index) in group.items"
+                                             v-bind:time-cell="cell.id"
+                                             v-bind:time-group="group.id"
+                                             v-bind:class="{
+                                                    'timemap__cell--first': is_first(cell_index),
+                                                    'timemap__cell--last': is_last(cell_index, group.items),
+                                                    'timemap__cell--endofhour': !is_last(group_index, court.groups) && cell.time_to.minutes==0
+                                                }"
+                                             v-on:click="handle_click(cell)"
+                                        >
+                                            <template v-if="group.movable">
+                                                <div class="timemap__before" v-if="is_first(cell_index)"
+                                                     v-bind:class="{ 'timemap__before--xs': is_before_movable(group_index, court.groups) }"
+                                                ></div>
+                                                <div class="timemap__after" v-if="is_last(cell_index, group.items)"
+                                                     v-bind:class="{ 'timemap__after--xs': is_after_movable(group_index, court.groups) }"
+                                                ></div>
+                                            </template>
+                                        </div>
+                                    </div>
+
+                                
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+
+        </div>
+
+    </template>
+                        </div>
+                    </div>
+                
+            </div>
+
+                        <div class="footer footer--fixed">
+                
+                    <div class="footer__body">
+                        <div class="client-add client-add_t14">
+                            <div class="control-block">
+                                <div class="control-block__body">
+
+                                    <div class="control-order clearfix">
+
+
+                                        <div class="control-order__inner">
+                                                <h3 class="control-block__title control-order__title">ÐÐ°Ñ Ð·Ð°ÐºÐ°Ð·:</h3>
+    <div v-if="type == 8">
+        <div class="list-inline__item timemap-filter__item control-payment-deposit text-left">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+    </div>
+
+    
+    <div v-if="price_custom == 0">
+        <div class="control-order__content control-order__content_t14">
+            <table class="control-order__table">
+                <tbody v-if="time_order.length > 0" class="control-order__body">
+                    <tr v-for="(ordertime,ordertime_index) in time_order" class="control-order__row" v-bind:class="{ 'control-order__row--first': is_first(ordertime_index), 'control-order__row--last': is_last(ordertime_index, time_order)}">
+                        <td class="control-order__cell control-order__cell--body control-order__cell--date text-lowercase">{{ dateLocalized }}</td>
+                        <td class="control-order__cell control-order__cell--body control-order__cell--time">Ñ {{ ordertime.time_from.title }} Ð´Ð¾ {{ ordertime.time_to.title }} ({{ get_hours(ordertime) }}Ñ.)</td>
+                        <td class="control-order__cell control-order__cell--body control-order__cell--name">{{ ordertime.court_type.short }} (ÐºÐ¾ÑÑ â{{ ordertime.court.number }})</td>
+                        <td class="control-order__cell control-order__cell--body control-order__cell--price">{{ get_price(ordertime, deposit_another_type) }}Ñ.</td>
+                        <td class="control-order__cell control-order__cell--body control-order__cell--delete" valign="middle">
+                            <span role="button" v-on:click="unselect(ordertime.items)">&times;</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="control-order__cell control-order__cell--footer text-right">ÐÑÐ¾Ð³Ð¾:</td>
+                        <td class="control-order__cell control-order__cell--footer control-order__cell--price">{{ get_price_season(time_order) }}Ñ.</td>
+                    </tr>
+                </tbody>
+                <tbody v-else>
+                    <tr class="control-order__row control-order__row--first control-order__row--last control-order__row--invisible">
+                        <td class="control-order__cell control-order__cell--body control-order__cell--date">
+                            <span class="invisible text-lowercase">{{ dateLocalized }}</span>
+                        </td>
+                        <td class="control-order__cell control-order__cell--body control-order__cell--time">&nbsp;</td>
+                        <td class="control-order__cell control-order__cell--body control-order__cell--name">&nbsp;</td>
+                        <td class="control-order__cell control-order__cell--body control-order__cell--price">&nbsp;</td>
+                        <td class="control-order__cell control-order__cell--body control-order__cell--delete">&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="control-order__cell control-order__cell--footer text-right">&nbsp;</td>
+                        <td class="control-order__cell control-order__cell--footer control-order__cell--price">&nbsp;</td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    
+    <div v-else>
+        <div class="text-right"><b>ÐÑÐ¾Ð³Ð¾:{{ get_price(time_order) }}Ñ.</b></div>
+    </div>
+
+
+                                        </div>
+                                        <form class="inline-block" id="orderAddForm" method="post" action="/bronirovanie/order/add">
+                                            <input type="hidden" name="date" v-bind:value="dateString" />
+                                            <input type="hidden" name="order[type_id]" v-bind:value="type" />
+                                            <template v-for="(ordertime,ordertime_index) in time_order">
+                                                <input type="hidden" v-bind:name="'ordertime[' + ordertime_index + '][court_id]'" v-bind:value="ordertime.court_id" />
+                                                <input type="hidden" v-bind:name="'ordertime[' + ordertime_index + '][time_from]'" v-bind:value="ordertime.time_from.value" />
+                                                <input type="hidden" v-bind:name="'ordertime[' + ordertime_index + '][time_to]'" v-bind:value="ordertime.time_to.value" />
+                                            </template>
+                                            <div class="control-submit">
+                                                <button type="button" v-on:click="order_submit($event.target)" class="button button--submit button--uppercase button--big">
+                                                    <span class="button__text">ÐÐ°Ð±ÑÐ¾Ð½Ð¸ÑÐ¾Ð²Ð°ÑÑ</span>
+                                                </button>
+                                                                                            </div>
+                                        </form>
+                                        
+                                            
+                                            
+                                                
+                                                    
+                                                          
+                                                    
+                                                
+                                                
+                                                    
+                                                    
+                                                    
+                                                
+                                                
+                                                
+                                                    
+                                                       
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="auth-docs">
+    <a href="/inc/oferta.php" class="auth-docs__link fancybox short fancybox.iframe">ÐÐ¾Ð³Ð¾Ð²Ð¾Ñ Ð¾ÑÐµÑÑÑ</a>
+    <a href="/inc/requisites.php" class="auth-docs__link fancybox short fancybox.iframe">Ð ÐµÐºÐ²Ð¸Ð·Ð¸ÑÑ</a>
+    <a href="/inc/sposobyoplaty.php" class="auth-docs__link short fancybox fancybox.iframe">Ð¡Ð¿Ð¾ÑÐ¾Ð±Ñ Ð¾Ð¿Ð»Ð°ÑÑ</a>
+    <a href="/auth_docs/?doc_type=permission" class="auth-docs__link fancybox fancybox.iframe">Ð¡Ð¾Ð³Ð»Ð°ÑÐ¸Ðµ Ð½Ð° Ð¾Ð±ÑÐ°Ð±Ð¾ÑÐºÑ Ð´Ð°Ð½Ð½ÑÑ</a>
+    <a href="/auth_docs/?doc_type=user_agreement" class="auth-docs__link fancybox fancybox.iframe">ÐÐ¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÑÑÐºÐ¾Ðµ ÑÐ¾Ð³Ð»Ð°ÑÐµÐ½Ð¸Ðµ</a>
+    <a href="/auth_docs/?doc_type=privacy_policy" class="auth-docs__link fancybox fancybox.iframe">ÐÐ¾Ð»Ð¸ÑÐ¸ÐºÐ° ÐºÐ¾Ð½ÑÐ¸Ð´ÐµÐ½ÑÐ¸Ð°Ð»ÑÐ½Ð¾ÑÑÐ¸</a>
+</div>
+                    </div>
+                
+            </div>
+
+            <div class="footer footer--fake">
+                                    <div class="footer__body">
+                        <div class="client-add client-add_t14">
+                            <div class="control-block">
+                                <div class="control-block__body">
+
+                                    <div class="control-order clearfix">
+
+
+                                        <div class="control-order__inner">
+                                                <h3 class="control-block__title control-order__title">ÐÐ°Ñ Ð·Ð°ÐºÐ°Ð·:</h3>
+    <div v-if="type == 8">
+        <div class="list-inline__item timemap-filter__item control-payment-deposit text-left">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+    </div>
+
+    
+    <div v-if="price_custom == 0">
+        <div class="control-order__content control-order__content_t14">
+            <table class="control-order__table">
+                <tbody v-if="time_order.length > 0" class="control-order__body">
+                    <tr v-for="(ordertime,ordertime_index) in time_order" class="control-order__row" v-bind:class="{ 'control-order__row--first': is_first(ordertime_index), 'control-order__row--last': is_last(ordertime_index, time_order)}">
+                        <td class="control-order__cell control-order__cell--body control-order__cell--date text-lowercase">{{ dateLocalized }}</td>
+                        <td class="control-order__cell control-order__cell--body control-order__cell--time">Ñ {{ ordertime.time_from.title }} Ð´Ð¾ {{ ordertime.time_to.title }} ({{ get_hours(ordertime) }}Ñ.)</td>
+                        <td class="control-order__cell control-order__cell--body control-order__cell--name">{{ ordertime.court_type.short }} (ÐºÐ¾ÑÑ â{{ ordertime.court.number }})</td>
+                        <td class="control-order__cell control-order__cell--body control-order__cell--price">{{ get_price(ordertime, deposit_another_type) }}Ñ.</td>
+                        <td class="control-order__cell control-order__cell--body control-order__cell--delete" valign="middle">
+                            <span role="button" v-on:click="unselect(ordertime.items)">&times;</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="control-order__cell control-order__cell--footer text-right">ÐÑÐ¾Ð³Ð¾:</td>
+                        <td class="control-order__cell control-order__cell--footer control-order__cell--price">{{ get_price_season(time_order) }}Ñ.</td>
+                    </tr>
+                </tbody>
+                <tbody v-else>
+                    <tr class="control-order__row control-order__row--first control-order__row--last control-order__row--invisible">
+                        <td class="control-order__cell control-order__cell--body control-order__cell--date">
+                            <span class="invisible text-lowercase">{{ dateLocalized }}</span>
+                        </td>
+                        <td class="control-order__cell control-order__cell--body control-order__cell--time">&nbsp;</td>
+                        <td class="control-order__cell control-order__cell--body control-order__cell--name">&nbsp;</td>
+                        <td class="control-order__cell control-order__cell--body control-order__cell--price">&nbsp;</td>
+                        <td class="control-order__cell control-order__cell--body control-order__cell--delete">&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="control-order__cell control-order__cell--footer text-right">&nbsp;</td>
+                        <td class="control-order__cell control-order__cell--footer control-order__cell--price">&nbsp;</td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    
+    <div v-else>
+        <div class="text-right"><b>ÐÑÐ¾Ð³Ð¾:{{ get_price(time_order) }}Ñ.</b></div>
+    </div>
+
+
+                                        </div>
+                                        <form class="inline-block" id="orderAddForm" method="post" action="/bronirovanie/order/add">
+                                            <input type="hidden" name="date" v-bind:value="dateString" />
+                                            <input type="hidden" name="order[type_id]" v-bind:value="type" />
+                                            <template v-for="(ordertime,ordertime_index) in time_order">
+                                                <input type="hidden" v-bind:name="'ordertime[' + ordertime_index + '][court_id]'" v-bind:value="ordertime.court_id" />
+                                                <input type="hidden" v-bind:name="'ordertime[' + ordertime_index + '][time_from]'" v-bind:value="ordertime.time_from.value" />
+                                                <input type="hidden" v-bind:name="'ordertime[' + ordertime_index + '][time_to]'" v-bind:value="ordertime.time_to.value" />
+                                            </template>
+                                            <div class="control-submit">
+                                                <button type="button" v-on:click="order_submit($event.target)" class="button button--submit button--uppercase button--big">
+                                                    <span class="button__text">ÐÐ°Ð±ÑÐ¾Ð½Ð¸ÑÐ¾Ð²Ð°ÑÑ</span>
+                                                </button>
+                                                                                            </div>
+                                        </form>
+                                        
+                                            
+                                            
+                                                
+                                                    
+                                                          
+                                                    
+                                                
+                                                
+                                                    
+                                                    
+                                                    
+                                                
+                                                
+                                                
+                                                    
+                                                       
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="auth-docs">
+    <a href="/inc/oferta.php" class="auth-docs__link fancybox short fancybox.iframe">ÐÐ¾Ð³Ð¾Ð²Ð¾Ñ Ð¾ÑÐµÑÑÑ</a>
+    <a href="/inc/requisites.php" class="auth-docs__link fancybox short fancybox.iframe">Ð ÐµÐºÐ²Ð¸Ð·Ð¸ÑÑ</a>
+    <a href="/inc/sposobyoplaty.php" class="auth-docs__link short fancybox fancybox.iframe">Ð¡Ð¿Ð¾ÑÐ¾Ð±Ñ Ð¾Ð¿Ð»Ð°ÑÑ</a>
+    <a href="/auth_docs/?doc_type=permission" class="auth-docs__link fancybox fancybox.iframe">Ð¡Ð¾Ð³Ð»Ð°ÑÐ¸Ðµ Ð½Ð° Ð¾Ð±ÑÐ°Ð±Ð¾ÑÐºÑ Ð´Ð°Ð½Ð½ÑÑ</a>
+    <a href="/auth_docs/?doc_type=user_agreement" class="auth-docs__link fancybox fancybox.iframe">ÐÐ¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÑÑÐºÐ¾Ðµ ÑÐ¾Ð³Ð»Ð°ÑÐµÐ½Ð¸Ðµ</a>
+    <a href="/auth_docs/?doc_type=privacy_policy" class="auth-docs__link fancybox fancybox.iframe">ÐÐ¾Ð»Ð¸ÑÐ¸ÐºÐ° ÐºÐ¾Ð½ÑÐ¸Ð´ÐµÐ½ÑÐ¸Ð°Ð»ÑÐ½Ð¾ÑÑÐ¸</a>
+</div>
+                    </div>
+                           </div>
+                    </div>
+    </div>
+        <script type="text/javascript" src="//006.spb.ru/resources/public/js/vue/poller.js"></script>
+            <script type="text/javascript" src="//x19.spb.ru/bronirovanie/i/js/app.js?3.209"></script>
+        <script type="text/javascript" src="//x19.spb.ru/bronirovanie/i/js/modal.js?3.209"></script>
+    <script type="text/javascript" src="/bronirovanie/initialize?date=2025-09-19&_=1757949511"></script>
+    <script type="text/javascript">
+
+        ;(function($) {
+
+            var app = new App({
+                el: '#app',
+                data: {
+                    url: {
+                        base: 'https://x19.spb.ru/bronirovanie'
+                    },
+                    host: 'x19.spb.ru',
+                    module: '',
+                    dateString: '2025-09-19',
+                    type: 1,
+                },
+                watch: {
+                    type: function(newValue, oldValue) {
+                        if (typeof oldValue !== 'undefined') {
+                            if (this.polling_running()) {
+                                this.polling_data({ timestamp: 0, type: newValue });
+                                this.polling_stop();
+                                this.polling_start();
+                            }
+                        }
+                    }
+                },
+                created: function() {
+                    if (window.$INITIAL) {
+                        this.done(window.$INITIAL);
+                    }
+                    this.polling_data({ date: this.date.format('YYYY-MM-DD'), type: this.type });
+                    this.polling_start();
+                }
+            });
+
+            $(function() {
+                            });
+
+            window.app = app;
+
+        })(jQuery);
+    </script>
+    
+    
+        
+            
+                
+                    
+                    
+                
+            
+        
+    
+    
+            <!-- Yandex.Metrika counter -->
+        <script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter6436900 = new Ya.Metrika({ id:6436900, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script>
+        <noscript><div><img src="https://mc.yandex.ru/watch/6436900" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+        <!-- /Yandex.Metrika counter -->
+
+        <!--- Our Stat -->
+        <script type="text/javascript" src="https://stat.006.spb.ru/v6stat.min.js"></script>
+        <script type="text/javascript">v6_counter_add(4);</script>
+    
+    
+
+</body>
+</html>
